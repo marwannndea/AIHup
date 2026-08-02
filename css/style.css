@@ -139,7 +139,6 @@ header .icons .search, header .icons .dark-mode, header .icons .menu{
     color: var(--secondary);
     cursor: pointer;
     transition: var(--transition);
-    display: none;
 }
 
 .dark-mode .fa-sun{
