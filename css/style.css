@@ -232,7 +232,7 @@ header .lang.active i{
     justify-content: space-between;
     margin: 20px 0;
     min-height: 300px;
-    padding: 15px 30px;
+    padding: 15px 10px;
 }
 
 .hero .left-section{
@@ -1027,6 +1027,24 @@ footer .bottom-footer .copyright p{
         max-width: 100%;
     }
 
+    .search-section .search-box input{
+        padding: 12px;
+        font-size: 14px;
+    }
+
+    .search-section .search-box:has(input:focus){
+        scale: 1.08;
+    }
+
+    .search-section .search-box button{
+        width: 35px;
+        height: 35px;
+        font-size: 14px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .description{
         font-size: 14px;
     }
@@ -1102,6 +1120,10 @@ footer .bottom-footer .copyright p{
         justify-content: center;
     }
 
+    .hero{
+        width: 100%;
+    }
+
     .hero .left-section .stats{
         width: 100%;
         display: flex;
@@ -1156,6 +1178,11 @@ footer .bottom-footer .copyright p{
     }
     .prompts-cards{
         grid-template-columns: repeat(1, 1fr);
+    }
+    footer .bottom-footer{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
     }
 }
 
