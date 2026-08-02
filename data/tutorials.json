@@ -1,0 +1,502 @@
+[
+  {
+    "id": 1,
+    "tool": "ChatGPT",
+    "youtubeID": "g5oEAoKdrdw",
+    "categories": {
+      "en": ["Chatbot", "Writing"],
+      "fr": ["Chatbot", "Rédaction"],
+      "ar": ["شات بوت", "الكتابة"]
+    },
+    "tags": {
+      "en": ["Prompt Engineering", "AI Basics"],
+      "fr": ["Prompt Engineering", "Bases de l'IA"],
+      "ar": ["هندسة الأوامر", "أساسيات الذكاء الاصطناعي"]
+    },
+    "description": {
+      "en": "Learn how to write effective prompts and get better answers from ChatGPT.",
+      "fr": "Apprenez à rédiger des prompts efficaces pour obtenir de meilleures réponses avec ChatGPT.",
+      "ar": "تعلّم كيفية كتابة أوامر احترافية للحصول على أفضل النتائج من ChatGPT."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 2,
+    "tool": "Claude",
+    "youtubeID": "HpnISrNvo0U",
+    "categories": {
+      "en": ["Coding", "AI Assistant"],
+      "fr": ["Programmation", "Assistant IA"],
+      "ar": ["البرمجة", "مساعد ذكاء اصطناعي"]
+    },
+    "tags": {
+      "en": ["Coding", "Automation"],
+      "fr": ["Programmation", "Automatisation"],
+      "ar": ["برمجة", "أتمتة"]
+    },
+    "description": {
+      "en": "Build projects faster with Claude Code and improve your development workflow.",
+      "fr": "Créez des projets plus rapidement grâce à Claude Code.",
+      "ar": "أنشئ مشاريعك بسرعة باستخدام Claude Code وحسّن سير عملك."
+    },
+    "level": {
+      "en": ["Intermediate"],
+      "fr": ["Intermédiaire"],
+      "ar": ["متوسط"]
+    }
+  },
+  {
+    "id": 3,
+    "tool": "Midjourney",
+    "youtubeID": "r2JQTh8y3yk",
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "fr": ["Génération d'images", "Design"],
+      "ar": ["توليد الصور", "التصميم"]
+    },
+    "tags": {
+      "en": ["Prompts", "Art"],
+      "fr": ["Prompts", "Art"],
+      "ar": ["الأوامر", "الفن"]
+    },
+    "description": {
+      "en": "Master prompt writing and generate amazing AI artwork with Midjourney.",
+      "fr": "Maîtrisez les prompts pour créer des images IA de haute qualité.",
+      "ar": "أتقن كتابة الأوامر لإنشاء صور احترافية باستخدام Midjourney."
+    },
+    "level": {
+      "en": ["Beginner", "Intermediate"],
+      "fr": ["Débutant", "Intermédiaire"],
+      "ar": ["مبتدئ", "متوسط"]
+    }
+  },
+  {
+    "id": 4,
+    "tool": "GitHub Copilot",
+    "youtubeID": "vdBxfFVXnc0",
+    "categories": {
+      "en": ["Coding", "Productivity"],
+      "fr": ["Programmation", "Productivité"],
+      "ar": ["البرمجة", "الإنتاجية"]
+    },
+    "tags": {
+      "en": ["JavaScript", "VS Code"],
+      "fr": ["JavaScript", "VS Code"],
+      "ar": ["جافاسكريبت", "VS Code"]
+    },
+    "description": {
+      "en": "Increase your coding speed with GitHub Copilot inside Visual Studio Code.",
+      "fr": "Améliorez votre vitesse de développement avec GitHub Copilot.",
+      "ar": "سرّع كتابة الأكواد باستخدام GitHub Copilot داخل VS Code."
+    },
+    "level": {
+      "en": ["Intermediate"],
+      "fr": ["Intermédiaire"],
+      "ar": ["متوسط"]
+    }
+  },
+  {
+    "id": 5,
+    "tool": "Runway ML",
+    "youtubeID": "FqYRkl12ON8",
+    "categories": {
+      "en": ["Video Creation", "Editing"],
+      "fr": ["Création vidéo", "Montage"],
+      "ar": ["إنشاء الفيديو", "المونتاج"]
+    },
+    "tags": {
+      "en": ["AI Video", "Gen-4"],
+      "fr": ["Vidéo IA", "Gen-4"],
+      "ar": ["فيديو بالذكاء الاصطناعي", "Gen-4"]
+    },
+    "description": {
+      "en": "Create and edit professional AI videos using Runway ML tools.",
+      "fr": "Créez et montez des vidéos professionnelles avec Runway ML.",
+      "ar": "أنشئ وعدّل فيديوهات احترافية باستخدام أدوات Runway ML."
+    },
+    "level": {
+      "en": ["Advanced"],
+      "fr": ["Avancé"],
+      "ar": ["متقدم"]
+    }
+  },
+  {
+    "id": 6,
+    "tool": "Google Gemini",
+    "youtubeID": "8aRJYpExTfs",
+    "categories": {
+      "en": ["Chatbot", "Productivity"],
+      "fr": ["Chatbot", "Productivité"],
+      "ar": ["شات بوت", "الإنتاجية"]
+    },
+    "tags": {
+      "en": ["Google AI", "Workspace"],
+      "fr": ["Google AI", "Workspace"],
+      "ar": ["ذكاء اصطناعي جوجل", "Workspace"]
+    },
+    "description": {
+      "en": "Get started with Google Gemini and see how it integrates with Gmail, Drive, and Docs.",
+      "fr": "Débutez avec Google Gemini et découvrez son intégration avec Gmail, Drive et Docs.",
+      "ar": "ابدأ مع Google Gemini واكتشف تكامله مع Gmail وDrive وDocs."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 7,
+    "tool": "Perplexity AI",
+    "youtubeID": "bOHfJZ4DVqE",
+    "categories": {
+      "en": ["Search", "Research"],
+      "fr": ["Recherche", "Recherche documentaire"],
+      "ar": ["البحث", "البحث العلمي"]
+    },
+    "tags": {
+      "en": ["AI Search", "Sources"],
+      "fr": ["Recherche IA", "Sources"],
+      "ar": ["بحث بالذكاء الاصطناعي", "مصادر"]
+    },
+    "description": {
+      "en": "Learn how Perplexity AI works as a source-backed alternative to search engines.",
+      "fr": "Découvrez comment Perplexity AI fonctionne comme alternative aux moteurs de recherche, avec sources.",
+      "ar": "تعرّف على كيفية عمل Perplexity AI كبديل لمحركات البحث مع ذكر المصادر."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 8,
+    "tool": "Notion AI",
+    "youtubeID": "hhOz6R5H0RY",
+    "categories": {
+      "en": ["Productivity", "Writing"],
+      "fr": ["Productivité", "Rédaction"],
+      "ar": ["الإنتاجية", "الكتابة"]
+    },
+    "tags": {
+      "en": ["Notes", "AI Writing"],
+      "fr": ["Notes", "Rédaction IA"],
+      "ar": ["ملاحظات", "كتابة بالذكاء الاصطناعي"]
+    },
+    "description": {
+      "en": "A beginner's guide to using Notion AI for writing, summarizing, and organizing notes.",
+      "fr": "Un guide pour débutants sur l'utilisation de Notion AI pour rédiger, résumer et organiser des notes.",
+      "ar": "دليل للمبتدئين حول استخدام Notion AI للكتابة والتلخيص وتنظيم الملاحظات."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 9,
+    "tool": "ElevenLabs",
+    "youtubeID": "yDTbAxJ3sKI",
+    "categories": {
+      "en": ["Audio", "Voice AI"],
+      "fr": ["Audio", "IA vocale"],
+      "ar": ["صوت", "ذكاء اصطناعي صوتي"]
+    },
+    "tags": {
+      "en": ["Text to Speech", "Voice Cloning"],
+      "fr": ["Synthèse vocale", "Clonage de voix"],
+      "ar": ["تحويل النص لصوت", "استنساخ الصوت"]
+    },
+    "description": {
+      "en": "Create realistic AI voiceovers and clone voices with ElevenLabs, step by step.",
+      "fr": "Créez des voix off réalistes et clonez des voix avec ElevenLabs, étape par étape.",
+      "ar": "أنشئ تعليقات صوتية واقعية واستنسخ الأصوات باستخدام ElevenLabs خطوة بخطوة."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 10,
+    "tool": "Canva Magic Studio",
+    "youtubeID": "6EIf2Hmia60",
+    "categories": {
+      "en": ["Design", "Image Generation"],
+      "fr": ["Design", "Génération d'images"],
+      "ar": ["التصميم", "توليد الصور"]
+    },
+    "tags": {
+      "en": ["Canva AI", "Templates"],
+      "fr": ["Canva AI", "Modèles"],
+      "ar": ["Canva AI", "قوالب"]
+    },
+    "description": {
+      "en": "A full tutorial on Canva's Magic Studio AI tools for faster, smarter design.",
+      "fr": "Un tutoriel complet sur les outils IA Magic Studio de Canva pour concevoir plus vite.",
+      "ar": "درس شامل حول أدوات الذكاء الاصطناعي Magic Studio في Canva للتصميم بسرعة أكبر."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 11,
+    "tool": "Sora (OpenAI)",
+    "youtubeID": "cNPfGqtKfnE",
+    "categories": {
+      "en": ["Video Creation", "Image Generation"],
+      "fr": ["Création vidéo", "Génération d'images"],
+      "ar": ["إنشاء الفيديو", "توليد الصور"]
+    },
+    "tags": {
+      "en": ["AI Video", "Text-to-Video"],
+      "fr": ["Vidéo IA", "Texte vers vidéo"],
+      "ar": ["فيديو بالذكاء الاصطناعي", "نص إلى فيديو"]
+    },
+    "description": {
+      "en": "A step-by-step guide to generating AI images and videos with OpenAI's Sora.",
+      "fr": "Un guide étape par étape pour générer des images et vidéos IA avec Sora d'OpenAI.",
+      "ar": "دليل خطوة بخطوة لتوليد الصور والفيديوهات بالذكاء الاصطناعي باستخدام Sora من OpenAI."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 12,
+    "tool": "Suno AI",
+    "youtubeID": "5OUpLRNdE9I",
+    "categories": {
+      "en": ["Music Generation", "Audio"],
+      "fr": ["Génération musicale", "Audio"],
+      "ar": ["توليد الموسيقى", "صوت"]
+    },
+    "tags": {
+      "en": ["AI Music", "Lyrics"],
+      "fr": ["Musique IA", "Paroles"],
+      "ar": ["موسيقى بالذكاء الاصطناعي", "كلمات أغاني"]
+    },
+    "description": {
+      "en": "Learn to generate full songs with vocals and lyrics using Suno AI.",
+      "fr": "Apprenez à générer des chansons complètes avec voix et paroles grâce à Suno AI.",
+      "ar": "تعلّم توليد أغاني كاملة بأصوات وكلمات باستخدام Suno AI."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 13,
+    "tool": "Cursor",
+    "youtubeID": "ocMOZpuAMw4",
+    "categories": {
+      "en": ["Coding", "AI Assistant"],
+      "fr": ["Programmation", "Assistant IA"],
+      "ar": ["البرمجة", "مساعد ذكاء اصطناعي"]
+    },
+    "tags": {
+      "en": ["Code Editor", "AI Coding"],
+      "fr": ["Éditeur de code", "Codage IA"],
+      "ar": ["محرر الأكواد", "برمجة بالذكاء الاصطناعي"]
+    },
+    "description": {
+      "en": "An introduction to the Cursor AI code editor: setup, chat, and inline editing.",
+      "fr": "Une introduction à l'éditeur de code Cursor AI : configuration, chat et édition en ligne.",
+      "ar": "مقدمة عن محرر الأكواد Cursor AI: الإعداد، الدردشة، والتحرير المباشر."
+    },
+    "level": {
+      "en": ["Intermediate"],
+      "fr": ["Intermédiaire"],
+      "ar": ["متوسط"]
+    }
+  },
+  {
+    "id": 14,
+    "tool": "Adobe Firefly",
+    "youtubeID": "Gni6gzKrXzY",
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "fr": ["Génération d'images", "Design"],
+      "ar": ["توليد الصور", "التصميم"]
+    },
+    "tags": {
+      "en": ["Generative AI", "Adobe"],
+      "fr": ["IA générative", "Adobe"],
+      "ar": ["ذكاء اصطناعي توليدي", "Adobe"]
+    },
+    "description": {
+      "en": "A beginner's guide to Adobe Firefly's generative AI tools.",
+      "fr": "Un guide pour débutants sur les outils d'IA générative d'Adobe Firefly.",
+      "ar": "دليل للمبتدئين حول أدوات الذكاء الاصطناعي التوليدي في Adobe Firefly."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 15,
+    "tool": "DeepSeek",
+    "youtubeID": "_8tcA9-14JQ",
+    "categories": {
+      "en": ["Chatbot", "AI Assistant"],
+      "fr": ["Chatbot", "Assistant IA"],
+      "ar": ["شات بوت", "مساعد ذكاء اصطناعي"]
+    },
+    "tags": {
+      "en": ["Reasoning", "Open Source"],
+      "fr": ["Raisonnement", "Open Source"],
+      "ar": ["الاستدلال", "مفتوح المصدر"]
+    },
+    "description": {
+      "en": "A complete crash course on using DeepSeek, a free open-source AI model.",
+      "fr": "Un cours accéléré complet sur DeepSeek, un modèle d'IA gratuit et open source.",
+      "ar": "دورة سريعة شاملة حول استخدام DeepSeek، نموذج ذكاء اصطناعي مجاني ومفتوح المصدر."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 16,
+    "tool": "Julius AI",
+    "youtubeID": "YXVElN6Rxik",
+    "categories": {
+      "en": ["Data Analysis", "Productivity"],
+      "fr": ["Analyse de données", "Productivité"],
+      "ar": ["تحليل البيانات", "الإنتاجية"]
+    },
+    "tags": {
+      "en": ["Data Cleaning", "Visualization"],
+      "fr": ["Nettoyage de données", "Visualisation"],
+      "ar": ["تنظيف البيانات", "التصور"]
+    },
+    "description": {
+      "en": "Learn to clean, analyze, and visualize datasets using simple prompts with Julius AI.",
+      "fr": "Apprenez à nettoyer, analyser et visualiser des jeux de données avec de simples prompts grâce à Julius AI.",
+      "ar": "تعلّم تنظيف وتحليل وتصور مجموعات البيانات باستخدام أوامر بسيطة مع Julius AI."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 17,
+    "tool": "Microsoft Copilot (Excel)",
+    "youtubeID": "tOYbdpfRYkM",
+    "categories": {
+      "en": ["Data Analysis", "Productivity"],
+      "fr": ["Analyse de données", "Productivité"],
+      "ar": ["تحليل البيانات", "الإنتاجية"]
+    },
+    "tags": {
+      "en": ["Spreadsheets", "PivotTables"],
+      "fr": ["Tableurs", "Tableaux croisés dynamiques"],
+      "ar": ["جداول بيانات", "جداول محورية"]
+    },
+    "description": {
+      "en": "A complete beginner's course on using Copilot in Excel for insights, charts, and PivotTables.",
+      "fr": "Un cours complet pour débutants sur l'utilisation de Copilot dans Excel pour les insights, graphiques et tableaux croisés dynamiques.",
+      "ar": "دورة كاملة للمبتدئين حول استخدام Copilot في Excel للحصول على رؤى ورسوم بيانية وجداول محورية."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 18,
+    "tool": "Gamma AI",
+    "youtubeID": "Slr6iP5roLU",
+    "categories": {
+      "en": ["Presentations", "Design"],
+      "fr": ["Présentations", "Design"],
+      "ar": ["العروض التقديمية", "التصميم"]
+    },
+    "tags": {
+      "en": ["AI Slides", "Templates"],
+      "fr": ["Slides IA", "Modèles"],
+      "ar": ["شرائح بالذكاء الاصطناعي", "قوالب"]
+    },
+    "description": {
+      "en": "Build polished presentations quickly with Gamma's AI-powered templates.",
+      "fr": "Créez des présentations soignées rapidement grâce aux modèles IA de Gamma.",
+      "ar": "أنشئ عروضا تقديمية أنيقة بسرعة باستخدام قوالب Gamma المدعومة بالذكاء الاصطناعي."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 19,
+    "tool": "Synthesia",
+    "youtubeID": "BnpkXjt8yrU",
+    "categories": {
+      "en": ["Video Creation", "AI Avatars"],
+      "fr": ["Création vidéo", "Avatars IA"],
+      "ar": ["إنشاء الفيديو", "أفاتار بالذكاء الاصطناعي"]
+    },
+    "tags": {
+      "en": ["Text-to-Video", "AI Presenter"],
+      "fr": ["Texte vers vidéo", "Présentateur IA"],
+      "ar": ["نص إلى فيديو", "مقدم بالذكاء الاصطناعي"]
+    },
+    "description": {
+      "en": "A full beginner's tutorial on creating AI avatar videos with Synthesia.",
+      "fr": "Un tutoriel complet pour débutants sur la création de vidéos avec avatars IA sur Synthesia.",
+      "ar": "درس كامل للمبتدئين حول إنشاء فيديوهات بأفاتار ذكاء اصطناعي باستخدام Synthesia."
+    },
+    "level": {
+      "en": ["Beginner"],
+      "fr": ["Débutant"],
+      "ar": ["مبتدئ"]
+    }
+  },
+  {
+    "id": 20,
+    "tool": "Descript",
+    "youtubeID": "RgwJNOXGARI",
+    "categories": {
+      "en": ["Video Editing", "Audio"],
+      "fr": ["Montage vidéo", "Audio"],
+      "ar": ["مونتاج الفيديو", "صوت"]
+    },
+    "tags": {
+      "en": ["Text-based Editing", "Voice Cloning"],
+      "fr": ["Montage par texte", "Clonage de voix"],
+      "ar": ["تحرير عبر النص", "استنساخ الصوت"]
+    },
+    "description": {
+      "en": "A step-by-step Descript tutorial covering text-based editing and AI voice cloning.",
+      "fr": "Un tutoriel Descript étape par étape sur le montage par texte et le clonage de voix par IA.",
+      "ar": "درس خطوة بخطوة عن Descript يغطي التحرير عبر النص واستنساخ الصوت بالذكاء الاصطناعي."
+    },
+    "level": {
+      "en": ["Beginner", "Intermediate"],
+      "fr": ["Débutant", "Intermédiaire"],
+      "ar": ["مبتدئ", "متوسط"]
+    }
+  }
+]

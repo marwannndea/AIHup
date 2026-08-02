@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "name": "ChatGPT",
+    "logo": "image/chatgpt.png",
+    "description": {
+      "en": "Conversational AI assistant by OpenAI for writing, coding, research, brainstorming, and productivity.",
+      "ar": "مساعد ذكاء اصطناعي محادثي من OpenAI للكتابة والبرمجة والبحث والعصف الذهني والإنتاجية.",
+      "fr": "Assistant IA conversationnel d'OpenAI pour l'écriture, le code, la recherche et la productivité."
+    },
+    "categories": {
+      "en": ["Chatbot", "Writing"],
+      "ar": ["روبوت محادثة", "كتابة"],
+      "fr": ["Chatbot", "Écriture"]
+    },
+    "pricing": ["Free", "Plus", "Pro"],
+    "rating": 4.9,
+    "website": "https://chatgpt.com",
+    "featured": true,
+    "views": 128450,
+    "tags": {
+      "en": ["AI", "Productivity", "Writing"],
+      "ar": ["ذكاء اصطناعي", "إنتاجية", "كتابة"],
+      "fr": ["IA", "Productivité", "Écriture"]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Claude",
+    "logo": "image/claude.png",
+    "description": {
+      "en": "AI assistant by Anthropic designed for long-form writing, coding, document analysis, and reasoning.",
+      "ar": "مساعد ذكاء اصطناعي من Anthropic مصمم للكتابة الطويلة والبرمجة وتحليل المستندات والاستدلال.",
+      "fr": "Assistant IA d'Anthropic conçu pour la rédaction longue, le code, l'analyse de documents et le raisonnement."
+    },
+    "categories": {
+      "en": ["Chatbot", "Research"],
+      "ar": ["روبوت محادثة", "بحث"],
+      "fr": ["Chatbot", "Recherche"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.8,
+    "website": "https://claude.ai",
+    "featured": true,
+    "views": 96420,
+    "tags": {
+      "en": ["AI", "Documents", "Research"],
+      "ar": ["ذكاء اصطناعي", "مستندات", "بحث"],
+      "fr": ["IA", "Documents", "Recherche"]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Midjourney",
+    "logo": "image/midjourney.png",
+    "description": {
+      "en": "AI image generation platform that creates high-quality artwork and concept images from text prompts.",
+      "ar": "منصة توليد صور بالذكاء الاصطناعي تنتج أعمالاً فنية وصورًا مفاهيمية عالية الجودة من نصوص وصفية.",
+      "fr": "Plateforme de génération d'images IA qui crée des œuvres et des visuels conceptuels de haute qualité à partir de textes."
+    },
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "ar": ["توليد الصور", "تصميم"],
+      "fr": ["Génération d'images", "Design"]
+    },
+    "pricing": ["Paid"],
+    "rating": 4.9,
+    "website": "https://www.midjourney.com",
+    "featured": true,
+    "views": 112300,
+    "tags": {
+      "en": ["Art", "Images", "Design"],
+      "ar": ["فن", "صور", "تصميم"],
+      "fr": ["Art", "Images", "Design"]
+    }
+  },
+  {
+    "id": 4,
+    "name": "GitHub Copilot",
+    "logo": "image/copilot.webp",
+    "description": {
+      "en": "AI coding assistant that suggests code, completes functions, and helps developers write software faster.",
+      "ar": "مساعد برمجي بالذكاء الاصطناعي يقترح الأكواد ويكمل الدوال ويساعد المطورين على كتابة البرمجيات بشكل أسرع.",
+      "fr": "Assistant de codage IA qui suggère du code, complète les fonctions et aide les développeurs à coder plus vite."
+    },
+    "categories": {
+      "en": ["Coding", "Developer Tools"],
+      "ar": ["برمجة", "أدوات المطورين"],
+      "fr": ["Codage", "Outils développeur"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.8,
+    "website": "https://github.com/features/copilot",
+    "featured": true,
+    "views": 84500,
+    "tags": {
+      "en": ["Coding", "Programming", "Developer"],
+      "ar": ["برمجة", "تطوير", "مطور"],
+      "fr": ["Codage", "Programmation", "Développeur"]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Runway",
+    "logo": "image/runway.png",
+    "description": {
+      "en": "AI-powered creative platform for video editing, text-to-video generation, and visual effects.",
+      "ar": "منصة إبداعية بالذكاء الاصطناعي لتحرير الفيديو وتحويل النص إلى فيديو والمؤثرات البصرية.",
+      "fr": "Plateforme créative IA pour le montage vidéo, la génération texte-vers-vidéo et les effets visuels."
+    },
+    "categories": {
+      "en": ["Video Creation", "Editing"],
+      "ar": ["إنشاء الفيديو", "تحرير"],
+      "fr": ["Création vidéo", "Montage"]
+    },
+    "pricing": ["Free", "Standard", "Pro"],
+    "rating": 4.7,
+    "website": "https://runwayml.com",
+    "featured": true,
+    "views": 73120,
+    "tags": {
+      "en": ["Video", "Editing", "Creative"],
+      "ar": ["فيديو", "تحرير", "إبداع"],
+      "fr": ["Vidéo", "Montage", "Créatif"]
+    }
+  },
+  {
+    "id": 6,
+    "name": "ElevenLabs",
+    "logo": "image/ElevenLabs.png",
+    "description": {
+      "en": "AI platform for realistic text-to-speech conversion, with support for voice cloning.",
+      "ar": "منصة ذكاء اصطناعي لتحويل النص إلى كلام واقعي، مع دعم استنساخ الأصوات.",
+      "fr": "Plateforme IA de conversion texte-vers-parole réaliste, avec prise en charge du clonage vocal."
+    },
+    "categories": {
+      "en": ["Audio", "Voice Generation"],
+      "ar": ["صوتيات", "توليد الصوت"],
+      "fr": ["Audio", "Génération vocale"]
+    },
+    "pricing": ["Free", "Starter", "Creator", "Pro"],
+    "rating": 4.6,
+    "website": "https://elevenlabs.io",
+    "featured": false,
+    "views": 62400,
+    "tags": {
+      "en": ["Voice", "Audio", "Text-to-Speech"],
+      "ar": ["صوت", "صوتيات", "تحويل النص إلى كلام"],
+      "fr": ["Voix", "Audio", "Synthèse vocale"]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Notion AI",
+    "logo": "image/notion-ai.png",
+    "description": {
+      "en": "AI assistant built into Notion that helps summarize, write, and organize notes and documents.",
+      "ar": "مساعد ذكاء اصطناعي مدمج داخل Notion يساعد في تلخيص وكتابة وتنظيم الملاحظات والمستندات.",
+      "fr": "Assistant IA intégré à Notion qui aide à résumer, rédiger et organiser notes et documents."
+    },
+    "categories": {
+      "en": ["Productivity", "Writing"],
+      "ar": ["إنتاجية", "كتابة"],
+      "fr": ["Productivité", "Écriture"]
+    },
+    "pricing": ["Add-on", "Included in Business/Enterprise"],
+    "rating": 4.5,
+    "website": "https://www.notion.so/product/ai",
+    "featured": false,
+    "views": 48900,
+    "tags": {
+      "en": ["Productivity", "Writing", "Notes"],
+      "ar": ["إنتاجية", "كتابة", "ملاحظات"],
+      "fr": ["Productivité", "Écriture", "Notes"]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Synthesia",
+    "logo": "image/synthesia.png",
+    "description": {
+      "en": "Platform for creating videos with AI-powered digital avatars, no camera or actors required.",
+      "ar": "منصة لإنشاء فيديوهات باستخدام أفاتارات رقمية ناطقة عبر الذكاء الاصطناعي دون الحاجة لكاميرا أو ممثلين.",
+      "fr": "Plateforme de création vidéo avec des avatars numériques IA, sans caméra ni acteurs."
+    },
+    "categories": {
+      "en": ["Video Creation", "AI Avatars"],
+      "ar": ["إنشاء الفيديو", "أفاتارات ذكاء اصطناعي"],
+      "fr": ["Création vidéo", "Avatars IA"]
+    },
+    "pricing": ["Starter", "Creator", "Enterprise"],
+    "rating": 4.4,
+    "website": "https://www.synthesia.io",
+    "featured": true,
+    "views": 39700,
+    "tags": {
+      "en": ["Video", "Avatar", "Presentation"],
+      "ar": ["فيديو", "أفاتار", "عرض تقديمي"],
+      "fr": ["Vidéo", "Avatar", "Présentation"]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Grammarly",
+    "logo": "image/grammarly.png",
+    "description": {
+      "en": "AI writing assistant that checks grammar, spelling, tone, and clarity across documents and browsers.",
+      "ar": "مساعد كتابة بالذكاء الاصطناعي يتحقق من القواعد والإملاء والأسلوب والوضوح عبر المستندات والمتصفحات.",
+      "fr": "Assistant d'écriture IA qui vérifie la grammaire, l'orthographe, le ton et la clarté dans les documents et navigateurs."
+    },
+    "categories": {
+      "en": ["Writing", "Productivity"],
+      "ar": ["كتابة", "إنتاجية"],
+      "fr": ["Écriture", "Productivité"]
+    },
+    "pricing": ["Free", "Premium", "Business"],
+    "rating": 4.6,
+    "website": "https://www.grammarly.com",
+    "featured": false,
+    "views": 68300,
+    "tags": {
+      "en": ["Writing", "Grammar", "Editing"],
+      "ar": ["كتابة", "قواعد", "تحرير"],
+      "fr": ["Écriture", "Grammaire", "Édition"]
+    }
+  },
+  {
+    "id": 10,
+    "name": "Perplexity AI",
+    "logo": "image/perplexity.jpg",
+    "description": {
+      "en": "AI-powered search engine that answers questions directly with cited sources in real time.",
+      "ar": "محرك بحث بالذكاء الاصطناعي يجيب عن الأسئلة مباشرة مع ذكر المصادر في الوقت الفعلي.",
+      "fr": "Moteur de recherche IA qui répond directement aux questions avec des sources citées en temps réel."
+    },
+    "categories": {
+      "en": ["Search", "Research"],
+      "ar": ["بحث", "أبحاث"],
+      "fr": ["Recherche", "Investigation"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.6,
+    "website": "https://www.perplexity.ai",
+    "featured": true,
+    "views": 71500,
+    "tags": {
+      "en": ["Search", "Research", "Answers"],
+      "ar": ["بحث", "أبحاث", "إجابات"],
+      "fr": ["Recherche", "Investigation", "Réponses"]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Canva Magic Studio",
+    "logo": "image/canva.jpg",
+    "description": {
+      "en": "Suite of AI design tools within Canva for generating images, text, and editing designs automatically.",
+      "ar": "مجموعة أدوات تصميم بالذكاء الاصطناعي داخل Canva لتوليد الصور والنصوص وتحرير التصاميم تلقائيًا.",
+      "fr": "Suite d'outils de design IA dans Canva pour générer images, textes et éditer les designs automatiquement."
+    },
+    "categories": {
+      "en": ["Design", "Creative"],
+      "ar": ["تصميم", "إبداع"],
+      "fr": ["Design", "Créatif"]
+    },
+    "pricing": ["Free", "Pro", "Teams"],
+    "rating": 4.7,
+    "website": "https://www.canva.com/magic-studio",
+    "featured": true,
+    "views": 82400,
+    "tags": {
+      "en": ["Design", "Graphics", "Creative"],
+      "ar": ["تصميم", "رسومات", "إبداع"],
+      "fr": ["Design", "Graphisme", "Créatif"]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Suno",
+    "logo": "image/suno.png",
+    "description": {
+      "en": "AI music generation tool that creates full songs, including vocals and instrumentals, from text prompts.",
+      "ar": "أداة توليد موسيقى بالذكاء الاصطناعي تنشئ أغانٍ كاملة، بما في ذلك الغناء والموسيقى، من نصوص وصفية.",
+      "fr": "Outil de génération musicale IA qui crée des chansons complètes, voix et instruments, à partir de textes."
+    },
+    "categories": {
+      "en": ["Audio", "Music Generation"],
+      "ar": ["صوتيات", "توليد الموسيقى"],
+      "fr": ["Audio", "Génération musicale"]
+    },
+    "pricing": ["Free", "Pro", "Premier"],
+    "rating": 4.5,
+    "website": "https://suno.com",
+    "featured": false,
+    "views": 55200,
+    "tags": {
+      "en": ["Music", "Audio", "Creative"],
+      "ar": ["موسيقى", "صوتيات", "إبداع"],
+      "fr": ["Musique", "Audio", "Créatif"]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Descript",
+    "logo": "image/descript.png",
+    "description": {
+      "en": "AI-powered audio and video editor that lets users edit recordings by editing text transcripts.",
+      "ar": "محرر صوت وفيديو بالذكاء الاصطناعي يتيح للمستخدمين تحرير التسجيلات عن طريق تحرير النصوص المفرغة.",
+      "fr": "Éditeur audio/vidéo IA qui permet de modifier les enregistrements en éditant les transcriptions textuelles."
+    },
+    "categories": {
+      "en": ["Video Creation", "Editing"],
+      "ar": ["إنشاء الفيديو", "تحرير"],
+      "fr": ["Création vidéo", "Montage"]
+    },
+    "pricing": ["Free", "Creator", "Pro", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://www.descript.com",
+    "featured": false,
+    "views": 43700,
+    "tags": {
+      "en": ["Video", "Audio", "Editing"],
+      "ar": ["فيديو", "صوت", "تحرير"],
+      "fr": ["Vidéo", "Audio", "Montage"]
+    }
+  }
+]

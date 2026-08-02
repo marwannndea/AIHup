@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "title": "SEO Blog Writer",
+    "prompt": "Act as an SEO expert and write a 1500-word blog post about [TOPIC]. Include a compelling title, meta description, H2/H3 headings, FAQs, and naturally integrate the keyword '[KEYWORD]' throughout the article.",
+    "aiModel": "ChatGPT",
+    "categories": ["Writing", "SEO"],
+    "pricing": ["Free"],
+    "rating": 4.8,
+    "prompts": true,
+    "views": 96320
+  },
+  {
+    "id": 2,
+    "title": "Professional Email Generator",
+    "prompt": "Write a professional email to [RECIPIENT] regarding [TOPIC]. Keep the tone polite, concise, and persuasive. End with a clear call to action.",
+    "aiModel": "Claude",
+    "categories": ["Writing", "Business"],
+    "pricing": ["Free", "Pro"],
+    "rating": 4.9,
+    "prompts": true,
+    "views": 75410
+  },
+  {
+    "id": 3,
+    "title": "React Code Assistant",
+    "prompt": "You are a senior React developer. Build a clean, responsive React component for [FEATURE] using modern React hooks, reusable code, accessibility best practices, and Tailwind CSS.",
+    "aiModel": "ChatGPT",
+    "categories": ["Coding", "React"],
+    "pricing": ["Plus", "Pro"],
+    "rating": 4.9,
+    "prompts": true,
+    "views": 118540
+  },
+  {
+    "id": 4,
+    "title": "Midjourney Logo Prompt",
+    "prompt": "Minimal modern logo for a [BUSINESS TYPE] brand, clean vector style, premium look, blue and white palette, negative space, flat design, centered composition, no mockup, white background --v 7 --style raw",
+    "aiModel": "Midjourney",
+    "categories": ["Design", "Logo"],
+    "pricing": ["Paid"],
+    "rating": 4.7,
+    "prompts": true,
+    "views": 67480
+  },
+  {
+    "id": 5,
+    "title": "YouTube Script Creator",
+    "prompt": "Create a highly engaging YouTube video script about [TOPIC]. Start with a strong hook, keep viewers engaged with storytelling, include practical examples, and finish with a compelling call to action.",
+    "aiModel": "Gemini",
+    "categories": ["Content", "YouTube"],
+    "pricing": ["Free", "Pro"],
+    "rating": 3.8,
+    "prompts": true,
+    "views": 89150
+  }
+]
