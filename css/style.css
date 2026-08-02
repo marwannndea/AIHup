@@ -267,6 +267,7 @@ header .lang.active i{
     cursor: pointer;
     margin-bottom: 20px;
     transition: var(--transition);
+    text-wrap: nowrap;
 }
 
 .hero .left-section .primary-btn{
@@ -1048,17 +1049,29 @@ footer .bottom-footer .copyright p{
         grid-template-columns: repeat(2 ,1fr);
     }
 
+    .featureds{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .featureds .featured{
+        width: 100%;
+        overflow: hidden;
+    }
     header nav ul{
         flex-direction: column;
         position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+
         background: var(--surface);
         padding: 20px;
-        top: 100px;
-        left: 50px;
+        text-align: center;
+
         transform: scaleY(0);
         transform-origin: top;
-        right: 20px;
-        text-align: center;
         transition: transform var(--transition);
     }
 
@@ -1094,6 +1107,7 @@ footer .bottom-footer .copyright p{
         display: flex;
         justify-content: space-between;
         align-items: center;
+        justify-content: center;
         gap: 8px;
     }
 
