@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marwannndea.github.io/AIHup/sitemap.xml
