@@ -1,13 +1,18 @@
-const darkModeBtn = document.querySelector(".dark-mode");
-const langBtn = document.querySelector(".lang");
+const darkModeBtn = document.querySelectorAll(".dark-mode");
+const langBtn = document.querySelectorAll(".lang");
 const langContainer = document.querySelector(".lang-container");
 const tutorialContainer = document.querySelector(".cards-tutorials");
 const menuBtn = document.querySelector(".menu");
 const list = document.querySelector(".list");
+const mobileSettings = document.querySelector(".mobile-settings");
+const darkMode = document.querySelector(".dark-mode");
+const lang = document.querySelector(".lang");
+const icons = document.querySelector(".icons");
 
 const API_KEY = "AIzaSyCn26G0wuZ1YsDq7iiks6gE8x5t9Ua_DsA";
 
-darkModeBtn.addEventListener("click", () => {
+darkModeBtn.forEach(btn => {
+btn.addEventListener("click", () => {
     document.body.classList.toggle("dark");
 
     if(document.body.classList.contains("dark")){
@@ -15,14 +20,17 @@ darkModeBtn.addEventListener("click", () => {
     }else{
         localStorage.setItem("darkMode", "false");
     }
+    })
 })
 
 if(localStorage.getItem("darkMode") === "true"){
     document.body.classList.add("dark");
 }
 
-langBtn.addEventListener("click", () => {
+langBtn.forEach(btn => {
+    btn.addEventListener("click", () => {
     langContainer.classList.toggle("active");
+})
 })
 
 menuBtn.addEventListener("click", () => {
