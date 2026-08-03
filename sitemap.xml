@@ -1,1 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <url>
+    <loc>https://marwannndea.github.io/AIHup/</loc>
+  </url>
+
+  <url>
+    <loc>https://marwannndea.github.io/AIHup/tools.html</loc>
+  </url>
+
+  <url>
+    <loc>https://marwannndea.github.io/AIHup/prompts.html</loc>
+  </url>
+
+  <url>
+    <loc>https://marwannndea.github.io/AIHup/tutorials.html</loc>
+  </url>
+
+  <url>
+    <loc>https://marwannndea.github.io/AIHup/search.html</loc>
+  </url>
+
+</urlset>
