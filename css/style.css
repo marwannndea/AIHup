@@ -122,7 +122,7 @@ header .icons{
     gap: 15px;
 }
 
-header .icons .search, header .icons .dark-mode, header .icons .menu{
+.search, .dark-mode, header .icons .menu{
     width: 40px;
     height: 40px;
     font-size: 1.2rem;
@@ -521,6 +521,7 @@ header .lang.active i{
 
 .featureds .featured .tags{
     display: flex;
+    flex-wrap: wrap;
     gap: 10px;
 }
 
@@ -662,6 +663,7 @@ header .lang.active i{
 
 .category{
     display: flex;
+    flex-wrap: wrap;
     gap: 10px;
     margin: 0 auto;
 }
@@ -1075,20 +1077,19 @@ footer .bottom-footer .copyright p{
 
     .featureds .featured{
         width: 100%;
-        overflow: hidden;
     }
     header nav ul{
         flex-direction: column;
         position: absolute;
-        top: 100%;
+        top: 100px;
         left: 0;
         width: 100%;
-
         background: var(--surface);
         padding: 20px;
         text-align: center;
-
         transform: scaleY(0);
+        box-shadow: var(--shadow);
+        border-radius: 10px;
         transform-origin: top;
         transition: transform var(--transition);
     }
@@ -1118,6 +1119,12 @@ footer .bottom-footer .copyright p{
         text-align: center;
         display: flex;
         justify-content: center;
+    }
+
+    .mobile-settings{
+        display: flex;
+        gap: 20px;
+        align-items: center;
     }
 
     .hero{
@@ -1183,6 +1190,20 @@ footer .bottom-footer .copyright p{
         display: flex;
         flex-direction: column;
         gap: 20px;
+    }
+
+    header .icons .dark-mode{
+        display: none;
+    }
+
+    header .icons .lang{
+        display: none;
+    }
+}
+
+@media (min-width: 768px) {
+    .mobile-settings{
+        display: none;
     }
 }
 
