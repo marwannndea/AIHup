@@ -291,7 +291,7 @@
     "pricing": ["Free", "Pro", "Premier"],
     "rating": 4.5,
     "website": "https://suno.com",
-    "featured": false,
+    "featured": true,
     "views": 55200,
     "tags": {
       "en": ["Music", "Audio", "Creative"],
@@ -316,12 +316,2262 @@
     "pricing": ["Free", "Creator", "Pro", "Enterprise"],
     "rating": 4.5,
     "website": "https://www.descript.com",
-    "featured": false,
+    "featured": true,
     "views": 43700,
     "tags": {
       "en": ["Video", "Audio", "Editing"],
       "ar": ["فيديو", "صوت", "تحرير"],
       "fr": ["Vidéo", "Audio", "Montage"]
+    }
+  },
+  {
+    "id": 14,
+    "name": "HeyGen",
+    "logo": "image/heygen.webp",
+    "description": {
+      "en": "AI video platform that generates studio-quality videos with realistic AI avatars and voices.",
+      "ar": "منصة فيديو بالذكاء الاصطناعي تنتج فيديوهات بجودة استوديو باستخدام أفاتار وأصوات واقعية.",
+      "fr": "Plateforme vidéo IA qui génère des vidéos de qualité studio avec des avatars et voix réalistes."
+    },
+    "categories": {
+      "en": ["Video Creation", "AI Avatars"],
+      "ar": ["إنشاء الفيديو", "أفاتار بالذكاء الاصطناعي"],
+      "fr": ["Création vidéo", "Avatars IA"]
+    },
+    "pricing": ["Free", "Creator", "Pro", "Business", "Enterprise"],
+    "rating": 4.8,
+    "website": "https://www.heygen.com",
+    "featured": true,
+    "views": null,
+    "tags": {
+      "en": ["Video", "Avatars", "Translation"],
+      "ar": ["فيديو", "أفاتار", "ترجمة"],
+      "fr": ["Vidéo", "Avatars", "Traduction"]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Otter.ai",
+    "logo": "image/otter-ai.png",
+    "description": {
+      "en": "AI meeting assistant that records, transcribes, and summarizes conversations in real time.",
+      "ar": "مساعد اجتماعات بالذكاء الاصطناعي يسجل ويفرغ ويلخص المحادثات في الوقت الفعلي.",
+      "fr": "Assistant de réunion IA qui enregistre, transcrit et résume les conversations en temps réel."
+    },
+    "categories": {
+      "en": ["Productivity", "Transcription"],
+      "ar": ["الإنتاجية", "تفريغ الصوت"],
+      "fr": ["Productivité", "Transcription"]
+    },
+    "pricing": ["Basic (Free)", "Pro", "Business", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://otter.ai",
+    "featured": true,
+    "views": null,
+    "tags": {
+      "en": ["Meetings", "Transcription", "Summaries"],
+      "ar": ["اجتماعات", "تفريغ", "ملخصات"],
+      "fr": ["Réunions", "Transcription", "Résumés"]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Fireflies.ai",
+    "logo": "image/fireflies-ai.png",
+    "description": {
+      "en": "AI meeting assistant that joins calls to transcribe, summarize, and extract action items.",
+      "ar": "مساعد اجتماعات بالذكاء الاصطناعي ينضم للمكالمات لتفريغها وتلخيصها واستخراج المهام.",
+      "fr": "Assistant de réunion IA qui rejoint les appels pour les transcrire, les résumer et en extraire les tâches."
+    },
+    "categories": {
+      "en": ["Productivity", "Transcription"],
+      "ar": ["الإنتاجية", "تفريغ الصوت"],
+      "fr": ["Productivité", "Transcription"]
+    },
+    "pricing": ["Free", "Pro", "Business", "Enterprise"],
+    "rating": 4.8,
+    "website": "https://fireflies.ai",
+    "featured": true,
+    "views": null,
+    "tags": {
+      "en": ["Meetings", "CRM Sync", "Action Items"],
+      "ar": ["اجتماعات", "ربط CRM", "مهام"],
+      "fr": ["Réunions", "Synchro CRM", "Tâches"]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Character.AI",
+    "logo": "image/character-ai.jpg",
+    "description": {
+      "en": "A platform for chatting with AI-powered characters, from original personas to fan-made ones.",
+      "ar": "منصة للدردشة مع شخصيات مدعومة بالذكاء الاصطناعي، من شخصيات أصلية إلى أخرى من صنع المستخدمين.",
+      "fr": "Une plateforme pour discuter avec des personnages IA, originaux ou créés par la communauté."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "c.ai+"],
+    "rating": 3.4,
+    "website": "https://character.ai",
+    "featured": true,
+    "views": null,
+    "tags": {
+      "en": ["Roleplay", "Character Creation"],
+      "ar": ["لعب أدوار", "إنشاء شخصيات"],
+      "fr": ["Jeu de rôle", "Création de personnages"]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Janitor AI",
+    "logo": "image/janitor-ai.webp",
+    "description": {
+      "en": "An AI chatbot platform specializing in custom roleplay and interactive character conversations.",
+      "ar": "منصة دردشة بالذكاء الاصطناعي متخصصة في تقمص الأدوار المحسّن والمحادثات التفاعلية مع الشخصيات.",
+      "fr": "Une plateforme de chatbot IA spécialisée dans le jeu de rôle personnalisé et les conversations interactives."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Janitor LLM"],
+    "rating": 4.5,
+    "website": "https://janitorai.com",
+    "featured": true,
+    "views": "55M/month",
+    "tags": {
+      "en": ["Roleplay", "Anime", "NSFW Option"],
+      "ar": ["لعب أدوار", "أنمي", "خيارات متعددة"],
+      "fr": ["Jeu de rôle", "Animé", "Option NSFW"]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Chai AI",
+    "logo": "image/chai-ai.png",
+    "description": {
+      "en": "A mobile-first platform to build and chat with conversational AI bots created by a global community.",
+      "ar": "منصة مخصصة للهواتف المحمولة لبناء والتحدث مع روبوتات ذكاء اصطناعي أنشأها مجتمع عالمي.",
+      "fr": "Une application mobile pour créer et discuter avec des bots IA conçus par une communauté mondiale."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Mobile App"],
+      "ar": ["شات بوت", "ترفيه", "تطبيق جوال"],
+      "fr": ["Chatbot", "Divertissement", "Application Mobile"]
+    },
+    "pricing": ["Free", "Chai Premium", "Chai Ultra"],
+    "rating": 4.4,
+    "website": "https://chai.ml",
+    "featured": true,
+    "views": "18M/month",
+    "tags": {
+      "en": ["Roleplay", "Community", "Mobile"],
+      "ar": ["لعب أدوار", "مجتمعي", "جوال"],
+      "fr": ["Jeu de rôle", "Communauté", "Mobile"]
+    }
+  },
+  {
+    "id": 20,
+    "name": "SpicyChat AI",
+    "logo": "image/spicychat-ai.png",
+    "description": {
+      "en": "An interactive chatbot platform allowing users to explore unfettered AI conversations and roleplay.",
+      "ar": "منصة محادثة تفاعلية تتيح للمستخدمين استكشاف محادثات ولعب أدوار غير مقيدة بالذكاء الاصطناعي.",
+      "fr": "Une plateforme de chatbot interactive permettant d'explorer des conversations et jeux de rôle sans filtre."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Supporter", "True Fan"],
+    "rating": 4.2,
+    "website": "https://spicychat.ai",
+    "featured": true,
+    "views": "22M/month",
+    "tags": {
+      "en": ["Roleplay", "Uncensored", "Character Creation"],
+      "ar": ["لعب أدوار", "بدون قيود", "إنشاء شخصيات"],
+      "fr": ["Jeu de rôle", "Sans filtre", "Création de personnages"]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Replika",
+    "logo": "image/replika.jpg",
+    "description": {
+      "en": "An AI companion designed to offer emotional support, conversation, and personalized interaction.",
+      "ar": "رفيق ذكاء اصطناعي مصمم تقديم الدعم العاطفي، المحادثة، والتفاعل الشخصي.",
+      "fr": "Un compagnon IA conçu pour offrir un soutien émotionnel, de la conversation et une interaction personnalisée."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Health & Wellness"],
+      "ar": ["شات بوت", "رفيق افتراضي", "صحة ورعاية"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Santé et Bien-être"]
+    },
+    "pricing": ["Free", "Replika Pro"],
+    "rating": 4.1,
+    "website": "https://replika.com",
+    "featured": true,
+    "views": "8.5M/month",
+    "tags": {
+      "en": ["AI Companion", "Mental Health", "Avatar"],
+      "ar": ["رفيق افتراضي", "صحة نفسية", "صورة رمزية"],
+      "fr": ["Compagnon IA", "Santé mentale", "Avatar"]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Pygmalion AI",
+    "logo": "image/pygmalion-ai.png",
+    "description": {
+      "en": "An open-source conversational AI model built specifically for dialogue and roleplay interactions.",
+      "ar": "نموذج ذكاء اصطناعي مفتوح المصدر مخصص للحوارات وتفاعلات لعب الأدوار.",
+      "fr": "Un modèle d'IA conversationnel open-source conçu spécialement pour le dialogue et les jeux de rôle."
+    },
+    "categories": {
+      "en": ["Chatbot", "Open Source"],
+      "ar": ["شات بوت", "مفتوح المصدر"],
+      "fr": ["Chatbot", "Open Source"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.0,
+    "website": "https://pygmalion.chat",
+    "featured": true,
+    "views": "1.2M/month",
+    "tags": {
+      "en": ["Open Source", "Roleplay", "Customizable"],
+      "ar": ["مفتوح المصدر", "لعب أدوار", "قابل للتخصيص"],
+      "fr": ["Open Source", "Jeu de rôle", "Personnalisable"]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Crushon.AI",
+    "logo": "image/crushon-ai.png",
+    "description": {
+      "en": "An AI platform allowing unrestricted conversations and roleplay with diverse digital characters.",
+      "ar": "منصة ذكاء اصطناعي تتيح المحادثات غير المقيدة ولعب الأدوار مع شخصيات رقمية متنوعة.",
+      "fr": "Une plateforme d'IA permettant des conversations sans restriction et des jeux de rôle avec divers personnages."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Standard", "Pro"],
+    "rating": 4.3,
+    "website": "https://crushon.ai",
+    "featured": true,
+    "views": "15M/month",
+    "tags": {
+      "en": ["Roleplay", "Uncensored", "Character Creation"],
+      "ar": ["لعب أدوار", "بدون قيود", "إنشاء شخصيات"],
+      "fr": ["Jeu de rôle", "Sans filtre", "Création de personnages"]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Dopple.ai",
+    "logo": "image/dopple-ai.jpg",
+    "description": {
+      "en": "An interactive conversational AI platform featuring virtual companions and fictional character chats.",
+      "ar": "منصة ذكاء اصطناعي حوارية تفاعلية تضم رفقاء افتراضيين ومحادثات شخصيات خيالية.",
+      "fr": "Une plateforme d'IA conversationnelle interactive proposant des compagnons virtuels et des chats de personnages."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Dopple+"],
+    "rating": 4.4,
+    "website": "https://dopple.ai",
+    "featured": false,
+    "views": "6.8M/month",
+    "tags": {
+      "en": ["Roleplay", "AI Companions", "No Wait Time"],
+      "ar": ["لعب أدوار", "رفقاء ذكاء اصطناعي", "بدون انتظار"],
+      "fr": ["Jeu de rôle", "Compagnons IA", "Sans attente"]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Poly.AI",
+    "logo": "image/poly-ai.png",
+    "description": {
+      "en": "An immersive AI character chat app featuring customizable voices, avatars, and interactive stories.",
+      "ar": "تطبيق محادثة شخصيات ذكاء اصطناعي غامر يقدم أصوات وصور رمزية قابلة للتخصيص وقصص تفاعلية.",
+      "fr": "Une application de chat d'IA immersive offrant des voix, des avatars personnalisables et des histoires interactives."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Mobile App"],
+      "ar": ["شات بوت", "ترفيه", "تطبيق جوال"],
+      "fr": ["Chatbot", "Divertissement", "Application Mobile"]
+    },
+    "pricing": ["Free", "Poly Pass"],
+    "rating": 4.6,
+    "website": "https://poly.ai",
+    "featured": true,
+    "views": "12M/month",
+    "tags": {
+      "en": ["Voice Chat", "Roleplay", "Mobile"],
+      "ar": ["دردشة صوتية", "لعب أدوار", "جوال"],
+      "fr": ["Chat vocal", "Jeu de rôle", "Mobile"]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Nomi AI",
+    "logo": "image/nomi-ai.png",
+    "description": {
+      "en": "Advanced AI companions with emotional intelligence, long-term memory, and personalized dynamic photos.",
+      "ar": "رفقاء ذكاء اصطناعي متقدمون بذكاء عاطفي، ذاكرة طويلة المدى، وصور ديناميكية مخصصة.",
+      "fr": "Des compagnons IA avancés dotés d'intelligence émotionnelle, de mémoire à long terme et de photos dynamiques."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Nomi Subscription"],
+    "rating": 4.7,
+    "website": "https://nomi.ai",
+    "featured": false,
+    "views": "3.5M/month",
+    "tags": {
+      "en": ["AI Companion", "Memory", "Realistic"],
+      "ar": ["رفيق افتراضي", "ذاكرة", "واقعي"],
+      "fr": ["Compagnon IA", "Mémoire", "Réaliste"]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Kajiwoto",
+    "logo": "image/kajiwoto.jpg",
+    "description": {
+      "en": "A platform to build, customize, and chat with AI companions and digital pets using custom datasets.",
+      "ar": "منصة لبناء وتخصيص والدردشة مع رفقاء الذكاء الاصطناعي والحيوانات الأليفة الرقمية باستخدام بيانات مخصصة.",
+      "fr": "Une plateforme pour créer, personnaliser et discuter avec des compagnons IA et animaux virtuels."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Kajiwoto+"],
+    "rating": 4.1,
+    "website": "https://kajiwoto.com",
+    "featured": false,
+    "views": "850K/month",
+    "tags": {
+      "en": ["Custom AI", "Anime", "Creation Tool"],
+      "ar": ["ذكاء اصطناعي مخصص", "أنمي", "أداة إنشاء"],
+      "fr": ["IA personnalisée", "Animé", "Outil de création"]
+    }
+  },
+  {
+    "id": 28,
+    "name": "Anima AI",
+    "logo": "image/anima-ai.png",
+    "description": {
+      "en": "A virtual AI friend and companion designed to help users practice social skills and reduce loneliness.",
+      "ar": "صديق ورفيق افتراضي بالذكاء الاصطناعي مصمم لمساعدة المستخدمين على ممارسة المهارات الاجتماعية وتقليل الشعور بالوحدة.",
+      "fr": "Un ami et compagnon virtuel en IA conçu pour aider les utilisateurs à pratiquer leurs compétences sociales."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Anima Premium"],
+    "rating": 4.1,
+    "website": "https://myanima.ai",
+    "featured": false,
+    "views": "2.1M/month",
+    "tags": {
+      "en": ["AI Friend", "Roleplay", "Conversation"],
+      "ar": ["صديق افتراضي", "لعب أدوار", "محادثات"],
+      "fr": ["Ami IA", "Jeu de rôle", "Conversation"]
+    }
+  },
+  {
+    "id": 29,
+    "name": "Kupid AI",
+    "logo": "image/kupid-ai.png",
+    "description": {
+      "en": "An interactive platform providing personalized conversations and realistic virtual companion interactions.",
+      "ar": "منصة تفاعلية توفر محادثات مخصصة وتفاعلات واقعية مع رفقاء افتراضيين.",
+      "fr": "Une plateforme interactive offrant des conversations personnalisées et des interactions réalistes avec des compagnons virtuels."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Premium"],
+    "rating": 4.2,
+    "website": "https://kupid.ai",
+    "featured": false,
+    "views": "1.8M/month",
+    "tags": {
+      "en": ["Virtual Companion", "Roleplay", "Avatars"],
+      "ar": ["رفيق افتراضي", "لعب أدوار", "صور رمزية"],
+      "fr": ["Compagnon Virtuel", "Jeu de rôle", "Avatars"]
+    }
+  },
+  {
+    "id": 30,
+    "name": "Soulmate AI",
+    "logo": "image/soulmate-ai.jpg",
+    "description": {
+      "en": "An AI companion app tailored for complex emotional interactions, customizable traits, and immersive chat.",
+      "ar": "تطبيق رفيق بالذكاء الاصطناعي مصمم للتفاعلات العاطفية المتقدمة، مع سمات قابلة للتخصيص ومحادثات غامرة.",
+      "fr": "Une application de compagnon IA conçue pour des interactions émotionnelles complexes et un chat immersif."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.0,
+    "website": "https://soulmateai.com",
+    "featured": false,
+    "views": "950K/month",
+    "tags": {
+      "en": ["AI Partner", "Customization", "Emotional Intelligence"],
+      "ar": ["شريك افتراضي", "تخصيص", "ذكاء عاطفي"],
+      "fr": ["Partenaire IA", "Personnalisation", "Intelligence Émotionnelle"]
+    }
+  },
+  {
+    "id": 31,
+    "name": "Kindroid",
+    "logo": "image/kindroid.jpg",
+    "description": {
+      "en": "Sophisticated AI companions with humanlike memory, customizable backstories, and voice call capabilities.",
+      "ar": "رفقاء ذكاء اصطناعي متطورون بذاكرة شبيها بالبشر، خلفيات قصصية قابلة للتعديل، وقدرات للمكالمات الصوتية.",
+      "fr": "Des compagnons IA sophistiqués avec une mémoire quasi humaine, des histoires personnalisables et des appels vocaux."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Kindroid Subscription"],
+    "rating": 4.6,
+    "website": "https://kindroid.ai",
+    "featured": true,
+    "views": "4.2M/month",
+    "tags": {
+      "en": ["Voice Calls", "Deep Memory", "Selfies"],
+      "ar": ["مكالمات صوتية", "ذاكرة عميقة", "صور سيلفي"],
+      "fr": ["Appels vocaux", "Mémoire profonde", "Selfies"]
+    }
+  },
+  {
+    "id": 32,
+    "name": "FlowGPT",
+    "logo": "image/flowgpt.jpg",
+    "description": {
+      "en": "A community-driven platform for discovering, creating, and sharing creative prompts and character chatbots.",
+      "ar": "منصة مجتمعية لاكتشاف، إنشاء، ومشاركة الأوامر الإبداعية وروبوتات محادثة الشخصيات.",
+      "fr": "Une plateforme communautaire pour découvrir, créer et partager des prompts créatifs et des chatbots."
+    },
+    "categories": {
+      "en": ["Chatbot", "Prompts Hub", "Entertainment"],
+      "ar": ["شات بوت", "منصة أوامر", "ترفيه"],
+      "fr": ["Chatbot", "Hub de Prompts", "Divertissement"]
+    },
+    "pricing": ["Free", "FlowGPT Plus"],
+    "rating": 4.5,
+    "website": "https://flowgpt.com",
+    "featured": true,
+    "views": "8.1M/month",
+    "tags": {
+      "en": ["Prompts", "Community", "Roleplay"],
+      "ar": ["أوامر", "مجتمعي", "لعب أدوار"],
+      "fr": ["Prompts", "Communauté", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 33,
+    "name": "Moemate",
+    "logo": "image/moemate.jpg",
+    "description": {
+      "en": "A highly customizable AI studio featuring 2D/3D avatars, screen perception, and voice interaction.",
+      "ar": "استوديو ذكاء اصطناعي شديد التخصيص يضم صورًا رمزية ثنائية وثلاثية الأبعاد وتفاعلات صوتية ورؤية للشاشة.",
+      "fr": "Un studio d'IA hautement personnalisable avec des avatars 2D/3D, la perception d'écran et l'interaction vocale."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Entertainment"],
+      "ar": ["شات بوت", "رفيق افتراضي", "ترفيه"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Divertissement"]
+    },
+    "pricing": ["Free", "Basic", "Pro"],
+    "rating": 4.4,
+    "website": "https://moemate.io",
+    "featured": true,
+    "views": "2.8M/month",
+    "tags": {
+      "en": ["3D Avatars", "Voice Chat", "Screen Perception"],
+      "ar": ["صور ثلاثية الأبعاد", "دردشة صوتية", "إدراك الشاشة"],
+      "fr": ["Avatars 3D", "Chat vocal", "Perception d'écran"]
+    }
+  },
+  {
+    "id": 34,
+    "name": "Talkie AI",
+    "logo": "image/talkie-ai.png",
+    "description": {
+      "en": "An interactive AI character platform offering rich audio responses, collectible cards, and roleplay.",
+      "ar": "منصة شخصيات ذكاء اصطناعي تفاعلية تقدم استجابات صوتية غنية، بطاقات قابلة للجمع، ولعب أدوار.",
+      "fr": "Une plateforme de personnages IA interactifs offrant des réponses vocales, des cartes à collectionner et des jeux de rôle."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Mobile App"],
+      "ar": ["شات بوت", "ترفيه", "تطبيق جوال"],
+      "fr": ["Chatbot", "Divertissement", "Application Mobile"]
+    },
+    "pricing": ["Free", "Talkie Membership"],
+    "rating": 4.5,
+    "website": "https://talkie-ai.com",
+    "featured": true,
+    "views": "14M/month",
+    "tags": {
+      "en": ["Voice Responses", "Roleplay", "Cards Collection"],
+      "ar": ["ردود صوتية", "لعب أدوار", "تجميع البطاقات"],
+      "fr": ["Réponses vocales", "Jeu de rôle", "Collection de cartes"]
+    }
+  },
+  {
+    "id": 35,
+    "name": "Candy AI",
+    "logo": "image/candy-ai.jpg",
+    "description": {
+      "en": "An advanced virtual companion generator for tailored immersive chats and adaptive personalized experiences.",
+      "ar": "مولد رفقاء افتراضيين متقدم يتيح محادثات غامرة مخصصة وتجارب تفاعلية تكيفية.",
+      "fr": "Un générateurs de compagnons virtuels avancé pour des conversations immersives sur mesure."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Premium"],
+    "rating": 4.3,
+    "website": "https://candy.ai",
+    "featured": false,
+    "views": "11M/month",
+    "tags": {
+      "en": ["AI Companions", "Image Generation", "Roleplay"],
+      "ar": ["رفقاء افتراضيون", "توليد صور", "لعب أدوار"],
+      "fr": ["Compagnons IA", "Génération d'images", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 36,
+    "name": "Charstar AI",
+    "logo": "image/charstar-ai.jpg",
+    "description": {
+      "en": "An open and simple platform for creating and chatting with custom AI characters using open-source models.",
+      "ar": "منصة بسيطة ومفتوحة لإنشاء والدردشة مع شخصيات ذكاء اصطناعي مخصصة باستعمال نماذج مفتوحة المصدر.",
+      "fr": "Une plateforme simple pour créer et discuter avec des personnages IA personnalisés basés sur des modèles open source."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Charstar Plus"],
+    "rating": 4.2,
+    "website": "https://charstar.ai",
+    "featured": false,
+    "views": "1.5M/month",
+    "tags": {
+      "en": ["Character Creation", "Open Source LLMs", "Roleplay"],
+      "ar": ["إنشاء شخصيات", "نماذج مفتوحة", "لعب أدوار"],
+      "fr": ["Création de personnages", "Modèles open source", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 37,
+    "name": "Botify AI",
+    "logo": "image/botify-ai.jpg",
+    "description": {
+      "en": "A creative AI platform for chatting with real, fictional, and anime-style digital personalities.",
+      "ar": "منصة ذكاء اصطناعي إبداعية للدردشة مع شخصيات رقمية حقيقية وخيالية وبأسلوب الأنمي.",
+      "fr": "Une plateforme d'IA créative pour discuter avec des personnalités numériques réelles, fictives ou de style animé."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Mobile App"],
+      "ar": ["شات بوت", "ترفيه", "تطبيق جوال"],
+      "fr": ["Chatbot", "Divertissement", "Application Mobile"]
+    },
+    "pricing": ["Free", "Botify Premium"],
+    "rating": 4.3,
+    "website": "https://botify.ai",
+    "featured": false,
+    "views": "2.4M/month",
+    "tags": {
+      "en": ["Roleplay", "Anime", "Photo Generation"],
+      "ar": ["لعب أدوار", "أنمي", "توليد صور"],
+      "fr": ["Jeu de rôle", "Animé", "Génération de photos"]
+    }
+  },
+  {
+    "id": 38,
+    "name": "Paradot AI",
+    "logo": "image/paradot-ai.jpg",
+    "description": {
+      "en": "An intelligent AI companion with a evolving memory, emotional awareness, and world knowledge.",
+      "ar": "رفيق ذكاء اصطناعي ذكي يمتلك ذاكرة متطورة، وعياً عاطفياً، ومعرفة واسعة بالعالم.",
+      "fr": "Un compagnon IA intelligent doté d'une mémoire évolutive, d'une conscience émotionnelle et de connaissances."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Pro Member"],
+    "rating": 4.2,
+    "website": "https://paradot.ai",
+    "featured": false,
+    "views": "1.9M/month",
+    "tags": {
+      "en": ["AI Friend", "Evolving Memory", "Personality"],
+      "ar": ["صديق افتراضي", "ذاكرة متطورة", "شخصية"],
+      "fr": ["Ami IA", "Mémoire évolutive", "Personnalité"]
+    }
+  },
+  {
+    "id": 39,
+    "name": "AetherRoom",
+    "logo": "image/aetherroom.jpg",
+    "description": {
+      "en": "A text-based AI roleplay platform developed by NovelAI, focused on narrative depth and storytelling.",
+      "ar": "منصة لعب أدوار نصية بالذكاء الاصطناعي من تطوير NovelAI، تركز على العمق السردي وسرد القصص.",
+      "fr": "Une plateforme de jeu de rôle textuel par NovelAI, axée sur la profondeur narrative et le storytelling."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Storytelling"],
+      "ar": ["شات بوت", "ترفيه", "سرد قصص"],
+      "fr": ["Chatbot", "Divertissement", "Storytelling"]
+    },
+    "pricing": ["Free Trial", "Subscription"],
+    "rating": 4.4,
+    "website": "https://aetherroom.aidg.com",
+    "featured": false,
+    "views": "700K/month",
+    "tags": {
+      "en": ["Narrative", "Storytelling", "NovelAI Tech"],
+      "ar": ["سردي", "كتابة قصص", "تقنية NovelAI"],
+      "fr": ["Narratif", "Storytelling", "Technologie NovelAI"]
+    }
+  },
+  {
+    "id": 40,
+    "name": "SillyTavern",
+    "logo": "image/sillytavern.png",
+    "description": {
+      "en": "An advanced open-source interface designed for power users to interact with various LLMs and character cards.",
+      "ar": "واجهة متقدمة ومفتوحة المصدر مصممة للمستخدمين المحترفين للتفاعل مع مختلف النماذج اللغوية وبطاقات الشخصيات.",
+      "fr": "Une interface avancée et open-source conçue pour interagir avec divers LLM et cartes de personnages."
+    },
+    "categories": {
+      "en": ["Chatbot", "Open Source", "Developer Tools"],
+      "ar": ["شات بوت", "مفتوح المصدر", "أدوات مطورين"],
+      "fr": ["Chatbot", "Open Source", "Outils Développeur"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.8,
+    "website": "https://sillytavern.app",
+    "featured": true,
+    "views": "3.2M/month",
+    "tags": {
+      "en": ["Power User", "Custom UI", "Open Source"],
+      "ar": ["مستخدم احترافي", "واجهة مخصصة", "مفتوح المصدر"],
+      "fr": ["Utilisateur avancé", "Interface sur mesure", "Open Source"]
+    }
+  },
+  {
+    "id": 41,
+    "name": "Backyard AI",
+    "logo": "image/backyard-ai.png",
+    "description": {
+      "en": "A desktop application for running AI character chats locally on your own computer with complete privacy.",
+      "ar": "تطبيق للمكتب لتشغيل محادثات شخصيات الذكاء الاصطناعي محلياً على جهازك مع خصوصية كاملة.",
+      "fr": "Une application de bureau pour exécuter des chats de personnages IA localement sur votre ordinateur."
+    },
+    "categories": {
+      "en": ["Chatbot", "Desktop App", "Privacy"],
+      "ar": ["شات بوت", "تطبيق مكتب", "خصوصية"],
+      "fr": ["Chatbot", "Application Bureau", "Confidentialité"]
+    },
+    "pricing": ["Free", "Backyard Hub"],
+    "rating": 4.7,
+    "website": "https://backyard.ai",
+    "featured": false,
+    "views": "1.6M/month",
+    "tags": {
+      "en": ["Offline AI", "Local LLMs", "Privacy First"],
+      "ar": ["ذكاء اصطناعي أوفلاين", "نماذج محلية", "أولوية للخصوصية"],
+      "fr": ["IA hors ligne", "LLM locaux", "Priorité confidentialité"]
+    }
+  },
+  {
+    "id": 42,
+    "name": "Agnai",
+    "logo": "image/agnai.png",
+    "description": {
+      "en": "A flexible multi-tenant platform for chatting with AI characters supporting multiple AI backends.",
+      "ar": "منصة مرنة متعددة الخوادم للدردشة مع شخصيات الذكاء الاصطناعي تدعم محركات ذكاء اصطناعي متعددة.",
+      "fr": "Une plateforme flexible pour discuter avec des personnages IA prenant en charge plusieurs moteurs d'IA."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Self-Hosted"],
+    "rating": 4.5,
+    "website": "https://agnai.chat",
+    "featured": false,
+    "views": "1.4M/month",
+    "tags": {
+      "en": ["Multi-Backend", "Roleplay", "Customizable"],
+      "ar": ["محركات متعددة", "لعب أدوار", "قابل للتخصيص"],
+      "fr": ["Multi-moteurs", "Jeu de rôle", "Personnalisable"]
+    }
+  },
+  {
+    "id": 43,
+    "name": "DreamGen",
+    "logo": "image/dreamgen.png",
+    "description": {
+      "en": "An open-weights AI model platform specialized in uncensored roleplay and creative story writing.",
+      "ar": "منصة نماذج ذكاء اصطناعي مفتوحة الأوزان متخصصة في لعب الأدوار غير المقيد وكتابة القصص الإبداعية.",
+      "fr": "Une plateforme de modèles d'IA spécialisée dans le jeu de rôle sans filtre et l'écriture créative."
+    },
+    "categories": {
+      "en": ["Chatbot", "Storytelling", "Entertainment"],
+      "ar": ["شات بوت", "سرد قصص", "ترفيه"],
+      "fr": ["Chatbot", "Storytelling", "Divertissement"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.4,
+    "website": "https://dreamgen.com",
+    "featured": false,
+    "views": "900K/month",
+    "tags": {
+      "en": ["Roleplay", "Uncensored", "Writing Assistant"],
+      "ar": ["لعب أدوار", "بدون قيود", "مساعد كتابة"],
+      "fr": ["Jeu de rôle", "Sans filtre", "Assistant d'écriture"]
+    }
+  },
+  {
+    "id": 44,
+    "name": "Perchance AI Chat",
+    "logo": "image/perchance-ai.png",
+    "description": {
+      "en": "A free, browser-based AI roleplay and character generator requiring no signup or setup.",
+      "ar": "منصة محادثة ولعب أدوار بالذكاء الاصطناعي مجانية تعمل على المتصفح مباشرة دون الحاجة لتسجيل أو إعداد.",
+      "fr": "Un générateur de jeux de rôle et personnages IA gratuit sur navigateur, sans inscription requise."
+    },
+    "categories": {
+      "en": ["Chatbot", "Free Tools", "Entertainment"],
+      "ar": ["شات بوت", "أدوات مجانية", "ترفيه"],
+      "fr": ["Chatbot", "Outils Gratuits", "Divertissement"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.3,
+    "website": "https://perchance.org/ai-chat",
+    "featured": false,
+    "views": "5.5M/month",
+    "tags": {
+      "en": ["No Signup", "Free AI", "Roleplay"],
+      "ar": ["بدون تسجيل", "ذكاء اصطناعي مجاني", "لعب أدوار"],
+      "fr": ["Sans inscription", "IA gratuite", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 45,
+    "name": "CAI Bot",
+    "logo": "image/cai-bot.jpg",
+    "description": {
+      "en": "A platform for discovering and chatting with alternative character bots with flexible roleplay capabilities.",
+      "ar": "منصة لاكتشاف والدردشة مع شخصيات ذكاء اصطناعي بديلة تتميز بمرونة عالية في لعب الأدوار.",
+      "fr": "Une plateforme pour découvrir et discuter avec des bots de personnages alternatifs."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "Premium"],
+    "rating": 4.1,
+    "website": "https://caibot.ai",
+    "featured": false,
+    "views": "1.1M/month",
+    "tags": {
+      "en": ["Roleplay", "Bots Hub", "Character Creation"],
+      "ar": ["لعب أدوار", "مكتبة بوتات", "إنشاء شخصيات"],
+      "fr": ["Jeu de rôle", "Hub de bots", "Création de personnages"]
+    }
+  },
+  {
+    "id": 46,
+    "name": "HiWaifu",
+    "logo": "image/hiwaifu.jpg",
+    "description": {
+      "en": "An AI companion app focused on anime-style characters, emotional bonding, and interactive mini-games.",
+      "ar": "تطبيق رفيق ذكاء اصطناعي يركز على شخصيات الأنمي، الترابط العاطفي، والألعاب المصغرة التفاعلية.",
+      "fr": "Une application de compagnon IA axée sur les personnages d'animés et les jeux interactifs."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Mobile App"],
+      "ar": ["شات بوت", "رفيق افتراضي", "تطبيق جوال"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Application Mobile"]
+    },
+    "pricing": ["Free", "VIP Pass"],
+    "rating": 4.4,
+    "website": "https://hiwaifu.com",
+    "featured": false,
+    "views": "2.9M/month",
+    "tags": {
+      "en": ["Anime", "AI Companions", "Games"],
+      "ar": ["أنمي", "رفقاء افتراضيون", "ألعاب"],
+      "fr": ["Animé", "Compagnons IA", "Jeux"]
+    }
+  },
+  {
+    "id": 47,
+    "name": "Soulgen Chat",
+    "logo": "image/soulgen-chat.jpg",
+    "description": {
+      "en": "An AI text and image generation tool designed for creating custom virtual characters and chatting in real-time.",
+      "ar": "أداة توليد نصوص وصور بالذكاء الاصطناعي مصممة لإنشاء شخصيات افتراضية مخصصة والدردشة معها فورياً.",
+      "fr": "Un outil de génération de texte et d'image IA pour créer des personnages virtuels et discuter."
+    },
+    "categories": {
+      "en": ["Chatbot", "Image Generator", "Entertainment"],
+      "ar": ["شات بوت", "مولد صور", "ترفيه"],
+      "fr": ["Chatbot", "Générateur d'images", "Divertissement"]
+    },
+    "pricing": ["Free Trial", "Pro Subscription"],
+    "rating": 4.2,
+    "website": "https://soulgen.ai",
+    "featured": true,
+    "views": "4.1M/month",
+    "tags": {
+      "en": ["Image Generation", "Anime & Real", "Roleplay"],
+      "ar": ["توليد صور", "أنمي وواقعي", "لعب أدوار"],
+      "fr": ["Génération d'images", "Animé & Réel", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 48,
+    "name": "KoboldAI",
+    "logo": "image/koboldai.jpg",
+    "description": {
+      "en": "A browser-based client that lets you write and roleplay with local or remote AI models.",
+      "ar": "عميل يعمل عبر المتصفح يتيح لك الكتابة ولعب الأدوار مع نماذج ذكاء اصطناعي محلية أو بعيدة.",
+      "fr": "Un client sur navigateur vous permettant d'écrire et de jouer avec des modèles d'IA locaux ou distants."
+    },
+    "categories": {
+      "en": ["Chatbot", "Open Source", "Developer Tools"],
+      "ar": ["شات بوت", "مفتوح المصدر", "أدوات مطورين"],
+      "fr": ["Chatbot", "Open Source", "Outils Développeur"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.6,
+    "website": "https://koboldai.org",
+    "featured": false,
+    "views": "1.3M/month",
+    "tags": {
+      "en": ["Open Source", "Story Writing", "Self-Hosted"],
+      "ar": ["مفتوح المصدر", "كتابة القصص", "استضافة ذاتية"],
+      "fr": ["Open Source", "Écriture d'histoires", "Auto-hébergé"]
+    }
+  },
+  {
+    "id": 49,
+    "name": "Bot3 AI",
+    "logo": "image/bot3-ai.png",
+    "description": {
+      "en": "A simple roleplay character platform featuring a wide range of user-generated fictional bots.",
+      "ar": "منصة لعب أدوار بسيطة تتميز بوجود مجموعة واسعة من روبوتات الشخصيات الخيالية التي ينشئها المستخدمون.",
+      "fr": "Une plateforme de jeu de rôle simple avec une large gamme de bots créés par les utilisateurs."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.0,
+    "website": "https://bot3.ai",
+    "featured": false,
+    "views": "800K/month",
+    "tags": {
+      "en": ["Roleplay", "Community Bots", "Simple Chat"],
+      "ar": ["لعب أدوار", "بوتات مجتمعية", "محادثات بسيطة"],
+      "fr": ["Jeu de rôle", "Bots communautaires", "Chat simple"]
+    }
+  },
+  {
+    "id": 50,
+    "name": "Flowing AI",
+    "logo": "image/flowing-ai.jpg",
+    "description": {
+      "en": "A next-generation character chat service featuring dynamic memory retention and immersive visual story scenarios.",
+      "ar": "خدمة محادثة شخصيات من الجيل الجديد تتميز باحتفاظ ذاكرة ديناميكي وسيناريوهات قصصية مرئية غامرة.",
+      "fr": "Un service de chat de personnages de nouvelle génération offrant une mémoire dynamique et des scénarios visuels."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Virtual Companion"],
+      "ar": ["شات بوت", "ترفيه", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Divertissement", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Plus Subscription"],
+    "rating": 4.2,
+    "website": "https://flowing.ai",
+    "featured": false,
+    "views": "950K/month",
+    "tags": {
+      "en": ["Dynamic Memory", "Roleplay", "Visual Novels"],
+      "ar": ["ذاكرة ديناميكية", "لعب أدوار", "روايات مرئية"],
+      "fr": ["Mémoire dynamique", "Jeu de rôle", "Visual Novels"]
+    }
+  },
+  {
+    "id": 51,
+    "name": "Nectar AI",
+    "logo": "image/nectar-ai.jpg",
+    "description": {
+      "en": "An immersive uncensored AI platform combining text chat, image generation, and multi-modal companion creation.",
+      "ar": "منصة ذكاء اصطناعي غامرة بدون قيود تجمع بين المحادثات النصية، توليد الصور، وإنشاء رفقاء متعدد الوسائط.",
+      "fr": "Une plateforme d'IA immersive sans filtre combinant chat textuel, génération d'images et création de compagnons."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Premium Tier"],
+    "rating": 4.4,
+    "website": "https://nectar.ai",
+    "featured": true,
+    "views": "3.1M/month",
+    "tags": {
+      "en": ["Multimodal", "Uncensored", "Roleplay"],
+      "ar": ["متعدد الوسائط", "بدون قيود", "لعب أدوار"],
+      "fr": ["Multimodal", "Sans filtre", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 52,
+    "name": "Rizz AI",
+    "logo": "image/rizz-ai.png",
+    "description": {
+      "en": "A mobile-focused conversational assistant designed to help users improve communication and banter in messaging.",
+      "ar": "مساعد حواري مخصص للهواتف المحمولة مصمم لمساعدة المستخدمين على تحسين مهارات التواصل والمزاح في الرسائل.",
+      "fr": "Un assistant conversationnel mobile conçu pour aider les utilisateurs à améliorer leur communication."
+    },
+    "categories": {
+      "en": ["Chatbot", "Mobile App", "Social Skills"],
+      "ar": ["شات بوت", "تطبيق جوال", "مهارات اجتماعية"],
+      "fr": ["Chatbot", "Application Mobile", "Compétences Sociales"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.5,
+    "website": "https://rizz.ai",
+    "featured": false,
+    "views": "5.2M/month",
+    "tags": {
+      "en": ["Communication", "Mobile", "AI Assistant"],
+      "ar": ["تواصل", "جوال", "مساعد ذكي"],
+      "fr": ["Communication", "Mobile", "Assistant IA"]
+    }
+  },
+  {
+    "id": 53,
+    "name": "Hammer AI",
+    "logo": "image/hammer-ai.png",
+    "description": {
+      "en": "A free local-first AI character platform that lets users run chatbots directly inside their web browser privately.",
+      "ar": "منصة شخصيات ذكاء اصطناعي مجانية تعمل محلياً وتسمح للمستخدمين بتشغيل الروبوتات داخل المتصفح مباشرة بخصوصية.",
+      "fr": "Une plateforme d'IA locale gratuite permettant d'exécuter des chatbots directement dans le navigateur."
+    },
+    "categories": {
+      "en": ["Chatbot", "Privacy", "Free Tools"],
+      "ar": ["شات بوت", "خصوصية", "أدوات مجانية"],
+      "fr": ["Chatbot", "Confidentialité", "Outils Gratuits"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.3,
+    "website": "https://hammer.ai",
+    "featured": false,
+    "views": "600K/month",
+    "tags": {
+      "en": ["Local AI", "Browser-based", "Privacy First"],
+      "ar": ["ذكاء محلي", "عبر المتصفح", "أولوية للخصوصية"],
+      "fr": ["IA locale", "Sur navigateur", "Priorité confidentialité"]
+    }
+  },
+  {
+    "id": 54,
+    "name": "Dreamify AI",
+    "logo": "image/dreamify-ai.jpg",
+    "description": {
+      "en": "An interactive story-driven AI platform focused on character dialogue and fantasy roleplay experiences.",
+      "ar": "منصة ذكاء اصطناعي تفاعلية مبنية على القصص تركز على حوارات الشخصيات وتجارب تقمص الأدوار الخيالية.",
+      "fr": "Une plateforme d'IA interactive axée sur les dialogues de personnages et le jeu de rôle fantastique."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Storytelling"],
+      "ar": ["شات بوت", "ترفيه", "سرد قصص"],
+      "fr": ["Chatbot", "Divertissement", "Storytelling"]
+    },
+    "pricing": ["Free", "Pro"],
+    "rating": 4.2,
+    "website": "https://dreamify.ai",
+    "featured": false,
+    "views": "1.2M/month",
+    "tags": {
+      "en": ["Fantasy", "Roleplay", "Storytelling"],
+      "ar": ["خيالي", "لعب أدوار", "سرد قصص"],
+      "fr": ["Fantaisie", "Jeu de rôle", "Storytelling"]
+    }
+  },
+  {
+    "id": 55,
+    "name": "Roleplai",
+    "logo": "image/roleplai.png",
+    "description": {
+      "en": "An AI-powered interactive roleplay app featuring customizable bots, world-building, and adventure modes.",
+      "ar": "تطبيق لعب أدوار تفاعلي بالذكاء الاصطناعي يضم بوتات قابلة للتخصيص، بناء عوالم، وأوضاع مغامرات.",
+      "fr": "Une application de jeu de rôle par IA offrant des bots personnalisables et la création de mondes."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Mobile App"],
+      "ar": ["شات بوت", "ترفيه", "تطبيق جوال"],
+      "fr": ["Chatbot", "Divertissement", "Application Mobile"]
+    },
+    "pricing": ["Free", "Premium"],
+    "rating": 4.4,
+    "website": "https://roleplai.app",
+    "featured": false,
+    "views": "1.5M/month",
+    "tags": {
+      "en": ["Roleplay", "World Building", "Interactive"],
+      "ar": ["لعب أدوار", "بناء عوالم", "تفاعلي"],
+      "fr": ["Jeu de rôle", "Création de mondes", "Interactif"]
+    }
+  },
+  {
+    "id": 56,
+    "name": "NovelAI",
+    "logo": "image/novel-ai.png",
+    "description": {
+      "en": "A premium AI subscription service for AI-assisted authorship, storytelling, and interactive text roleplay.",
+      "ar": "خدمة اشتراك بريميوم للتأليف بمساعدة الذكاء الاصطناعي، سرد القصص، وتقمص الأدوار النصية التفاعلية.",
+      "fr": "Un service d'abonnement IA haut de gamme pour la rédaction assistée, le storytelling et le jeu de rôle."
+    },
+    "categories": {
+      "en": ["Chatbot", "Storytelling", "Entertainment"],
+      "ar": ["شات بوت", "سرد قصص", "ترفيه"],
+      "fr": ["Chatbot", "Storytelling", "Divertissement"]
+    },
+    "pricing": ["Free Trial", "Tablet", "Scroll", "Opus"],
+    "rating": 4.7,
+    "website": "https://novelai.net",
+    "featured": true,
+    "views": "6.5M/month",
+    "tags": {
+      "en": ["Story Generation", "Roleplay", "AI Writing"],
+      "ar": ["توليد قصص", "لعب أدوار", "كتابة بالذكاء الاصطناعي"],
+      "fr": ["Génération d'histoires", "Jeu de rôle", "Écriture IA"]
+    }
+  },
+  {
+    "id": 57,
+    "name": "AI Dungeon",
+    "logo": "image/ai-dungeon.png",
+    "description": {
+      "en": "A classic text-based adventure RPG where players can generate infinite stories and actions driven by AI.",
+      "ar": "لعبة مغامرات نصية كلاسيكية يولد فيها اللاعبون قصصاً وأفعالاً لا نهائية مدعومة بالذكاء الاصطناعي.",
+      "fr": "Un jeu de rôle d'aventure textuel classique où les joueurs génèrent des histoires infinies grâce à l'IA."
+    },
+    "categories": {
+      "en": ["Chatbot", "Gaming", "Storytelling"],
+      "ar": ["شات بوت", "ألعاب", "سرد قصص"],
+      "fr": ["Chatbot", "Jeux vidéo", "Storytelling"]
+    },
+    "pricing": ["Free", "Adventurer", "Hero", "Legend"],
+    "rating": 4.5,
+    "website": "https://aidungeon.com",
+    "featured": true,
+    "views": "4.8M/month",
+    "tags": {
+      "en": ["RPG", "Text Adventure", "Interactive Story"],
+      "ar": ["لعب أدوار", "مغامرة نصية", "قصة تفاعلية"],
+      "fr": ["RPG", "Aventure textuelle", "Histoire interactive"]
+    }
+  },
+  {
+    "id": 58,
+    "name": "Jan AI",
+    "logo": "image/jan-ai.png",
+    "description": {
+      "en": "An open-source, privacy-first desktop alternative to ChatGPT that runs LLMs locally on your hardware.",
+      "ar": "بديل مفتوح المصدر ومراع للخصوصية لـ ChatGPT يعمل كبرنامج مكتب لتشغيل النماذج محلياً على جهازك.",
+      "fr": "Une alternative open-source et privée à ChatGPT s'exécutant localement sur votre ordinateur."
+    },
+    "categories": {
+      "en": ["Chatbot", "Open Source", "Desktop App"],
+      "ar": ["شات بوت", "مفتوح المصدر", "تطبيق مكتب"],
+      "fr": ["Chatbot", "Open Source", "Application Bureau"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.8,
+    "website": "https://jan.ai",
+    "featured": true,
+    "views": "2.1M/month",
+    "tags": {
+      "en": ["Local AI", "Open Source", "Privacy First"],
+      "ar": ["ذكاء محلي", "مفتوح المصدر", "أولوية للخصوصية"],
+      "fr": ["IA locale", "Open Source", "Priorité confidentialité"]
+    }
+  },
+  {
+    "id": 59,
+    "name": "Faraday AI",
+    "logo": "image/faraday-ai.jpg",
+    "description": {
+      "en": "An intuitive native desktop application for offline AI character chat and roleplay without complex setup.",
+      "ar": "تطبيق مكتب مكتبي سلس لمحادثات شخصيات الذكاء الاصطناعي دون إتصال بالإنترنت وبدون إعدادات معقدة.",
+      "fr": "Une application de bureau intuitive pour le chat et le jeu de rôle IA hors ligne sans configuration complexe."
+    },
+    "categories": {
+      "en": ["Chatbot", "Desktop App", "Privacy"],
+      "ar": ["شات بوت", "تطبيق مكتب", "خصوصية"],
+      "fr": ["Chatbot", "Application Bureau", "Confidentialité"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.6,
+    "website": "https://faraday.dev",
+    "featured": false,
+    "views": "980K/month",
+    "tags": {
+      "en": ["Offline", "Desktop Native", "Local LLM"],
+      "ar": ["بدون إنترنت", "تطبيق مكتب", "نموذج محلي"],
+      "fr": ["Hors ligne", "Application natif", "LLM local"]
+    }
+  },
+  {
+    "id": 60,
+    "name": "Dreamily",
+    "logo": "image/dreamily.png",
+    "description": {
+      "en": "An AI writing assistant tailored for creative writers and roleplayers to build worldbuilding stories.",
+      "ar": "مساعد كتابة بالذكاء الاصطناعي مخصص للكتاب الإبداعيين وممارسي لعب الأدوار لبناء قصص وعوالم خيالية.",
+      "fr": "Un assistant d'écriture IA conçu pour les écrivains créatifs et joueurs de rôle afin de créer des histoires."
+    },
+    "categories": {
+      "en": ["Chatbot", "Storytelling", "Entertainment"],
+      "ar": ["شات بوت", "سرد قصص", "ترفيه"],
+      "fr": ["Chatbot", "Storytelling", "Divertissement"]
+    },
+    "pricing": ["Free", "Premium"],
+    "rating": 4.3,
+    "website": "https://dreamily.ai",
+    "featured": false,
+    "views": "1.4M/month",
+    "tags": {
+      "en": ["Co-writing", "Worldbuilding", "Storytelling"],
+      "ar": ["كتابة مشتركة", "بناء عوالم", "سرد قصص"],
+      "fr": ["Co-écriture", "Création de mondes", "Storytelling"]
+    }
+  },
+  {
+    "id": 61,
+    "name": "Sakura AI",
+    "logo": "image/sakura-ai.jpg",
+    "description": {
+      "en": "An anime-inspired interactive AI chat platform with custom storylines and dynamic character responses.",
+      "ar": "منصة محادثة تفاعلية بالذكاء الاصطناعي مستوحاة من الأنمي تقدم خطوطاً قصصية مخصصة واستجابات ديناميكية للشخصيات.",
+      "fr": "Une plateforme de chat IA interactive inspirée des animés avec des scénarios personnalisés."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free", "VIP Subscription"],
+    "rating": 4.4,
+    "website": "https://sakura.fm",
+    "featured": false,
+    "views": "2.6M/month",
+    "tags": {
+      "en": ["Anime", "Roleplay", "Story Scenarios"],
+      "ar": ["أنمي", "لعب أدوار", "سيناريوهات قصصية"],
+      "fr": ["Animé", "Jeu de rôle", "Scénarios d'histoires"]
+    }
+  },
+  {
+    "id": 62,
+    "name": "LM Studio",
+    "logo": "image/lm-studio.jpg",
+    "description": {
+      "en": "A powerful desktop application to discover, download, and run local LLMs and roleplay models entirely offline.",
+      "ar": "تطبيق مكتب قوي لاكتشاف وتحميل وتشغيل نماذج اللغات المحلية ونماذج لعب الأدوار دون الحاجة للإنترنت.",
+      "fr": "Une application de bureau puissante pour exécuter des modèles LLM et de jeux de rôle localement hors ligne."
+    },
+    "categories": {
+      "en": ["Chatbot", "Desktop App", "Developer Tools"],
+      "ar": ["شات بوت", "تطبيق مكتب", "أدوات مطورين"],
+      "fr": ["Chatbot", "Application Bureau", "Outils Développeur"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.9,
+    "website": "https://lmstudio.ai",
+    "featured": true,
+    "views": "5.1M/month",
+    "tags": {
+      "en": ["Local Models", "Offline LLMs", "Custom Backends"],
+      "ar": ["نماذج محلية", "ذكاء بدون إنترنت", "محركات مخصصة"],
+      "fr": ["Modèles locaux", "LLM hors ligne", "Moteurs personnalisés"]
+    }
+  },
+  {
+    "id": 63,
+    "name": "FictionLab AI",
+    "logo": "image/fictionlab-ai.jpg",
+    "description": {
+      "en": "An interactive storytelling platform where users collaboratively create multi-character roleplay adventures.",
+      "ar": "منصة قصص تفاعلية يصمم من خلالها المستخدمون مغامرات تقمص أدوار متعددة الشخصيات بشكل تعاوني.",
+      "fr": "Une plateforme de storytelling interactif où les utilisateurs créent des aventures de jeu de rôle multi-personnages."
+    },
+    "categories": {
+      "en": ["Chatbot", "Gaming", "Storytelling"],
+      "ar": ["شات بوت", "ألعاب", "سرد قصص"],
+      "fr": ["Chatbot", "Jeux vidéo", "Storytelling"]
+    },
+    "pricing": ["Free", "Plus Pass"],
+    "rating": 4.2,
+    "website": "https://fictionlab.ai",
+    "featured": false,
+    "views": "850K/month",
+    "tags": {
+      "en": ["Interactive Fiction", "Multi-Character", "Roleplay"],
+      "ar": ["خيال تفاعلي", "شخصيات متعددة", "لعب أدوار"],
+      "fr": ["Fiction interactive", "Multi-personnages", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 64,
+    "name": "Joyland AI",
+    "logo": "image/joyland-ai.png",
+    "description": {
+      "en": "An immersive character chat platform featuring customizable text, image generation, and personal AI companions.",
+      "ar": "منصة محادثة شخصيات غامرة تتميز بمحادثات نصية قابلة للتعديل، توليد صور، ورفقاء افتراضيين شخصيين.",
+      "fr": "Une plateforme de chat de personnages immersive offrant chat textuel, génération d'images et compagnons virtuels."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Entertainment"],
+      "ar": ["شات بوت", "رفيق افتراضي", "ترفيه"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Divertissement"]
+    },
+    "pricing": ["Free", "Premium Membership"],
+    "rating": 4.3,
+    "website": "https://joyland.ai",
+    "featured": false,
+    "views": "3.3M/month",
+    "tags": {
+      "en": ["Character Chat", "Image Generation", "Roleplay"],
+      "ar": ["دردشة شخصيات", "توليد صور", "لعب أدوار"],
+      "fr": ["Chat de personnages", "Génération d'images", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 65,
+    "name": "Figgs AI",
+    "logo": "image/figgs-ai.jpg",
+    "description": {
+      "en": "A free community-driven AI character platform with unlimited messages and customizable bot creation.",
+      "ar": "منصة شخصيات ذكاء اصطناعي مجانية يقودها المجتمع مع رسائل غير محدودة وإمكانية إنشاء بوتات مخصصة.",
+      "fr": "Une plateforme gratuite de personnages IA communautaire avec messages illimités."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment", "Free Tools"],
+      "ar": ["شات بوت", "ترفيه", "أدوات مجانية"],
+      "fr": ["Chatbot", "Divertissement", "Outils Gratuits"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.5,
+    "website": "https://figgs.ai",
+    "featured": true,
+    "views": "4.2M/month",
+    "tags": {
+      "en": ["Free Unlimited", "Community", "Roleplay"],
+      "ar": ["مجاني غير محدود", "مجتمعي", "لعب أدوار"],
+      "fr": ["Gratuit illimité", "Communauté", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 66,
+    "name": "Wyvern AI",
+    "logo": "image/wyvern-ai.jpg",
+    "description": {
+      "en": "A specialized AI narrative generation tool designed for tabletop roleplaying games and worldbuilding.",
+      "ar": "أداة توليد سردي بالذكاء الاصطناعي مخصصة لألعاب تقمص الأدوار الطاولية وبناء العوالم الخيالية.",
+      "fr": "Un outil de génération narrative IA conçu pour les jeux de rôle sur table et le worldbuilding."
+    },
+    "categories": {
+      "en": ["Chatbot", "Gaming", "Storytelling"],
+      "ar": ["شات بوت", "ألعاب", "سرد قصص"],
+      "fr": ["Chatbot", "Jeux vidéo", "Storytelling"]
+    },
+    "pricing": ["Free", "Pro Tier"],
+    "rating": 4.1,
+    "website": "https://wyvern.ai",
+    "featured": false,
+    "views": "650K/month",
+    "tags": {
+      "en": ["Tabletop RPG", "Worldbuilding", "Story Generation"],
+      "ar": ["ألعاب طاولية", "بناء عوالم", "توليد قصص"],
+      "fr": ["JDR sur table", "Worldbuilding", "Génération d'histoires"]
+    }
+  },
+  {
+    "id": 67,
+    "name": "TextSynth",
+    "logo": "image/textsynth.png",
+    "description": {
+      "en": "A lightweight web API and playground for running open-source large language models for text and roleplay.",
+      "ar": "واجهة برمجة تطبيقات خفيفة وتفاعلية لتشغيل النماذج اللغوية مفتوحة المصدر للنصوص ولعب الأدوار.",
+      "fr": "Une API web légère et un espace d'essai pour exécuter des modèles linguistiques open source."
+    },
+    "categories": {
+      "en": ["Chatbot", "Developer Tools", "Open Source"],
+      "ar": ["شات بوت", "أدوات مطورين", "مفتوح المصدر"],
+      "fr": ["Chatbot", "Outils Développeur", "Open Source"]
+    },
+    "pricing": ["Free Pay-as-you-go credit"],
+    "rating": 4.3,
+    "website": "https://textsynth.com",
+    "featured": false,
+    "views": "450K/month",
+    "tags": {
+      "en": ["API Access", "Open Source LLMs", "Text Completion"],
+      "ar": ["وصول API", "نماذج مفتوحة المصدر", "إكمال النصوص"],
+      "fr": ["Accès API", "LLM Open Source", "Complétion de texte"]
+    }
+  },
+  {
+    "id": 68,
+    "name": "Kore AI",
+    "logo": "image/kore-ai.png",
+    "description": {
+      "en": "An interactive conversational AI platform focused on deep emotional intelligence and personalized companions.",
+      "ar": "منصة ذكاء اصطناعي حوارية تفاعلية تركز على الذكاء العاطفي العميق والرفقاء الافتراضيين المخصصين.",
+      "fr": "Une plateforme d'IA conversationnelle axée sur l'intelligence émotionnelle et les compagnons personnalisés."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion"],
+      "ar": ["شات بوت", "رفيق افتراضي"],
+      "fr": ["Chatbot", "Compagnon Virtuel"]
+    },
+    "pricing": ["Free", "Kore Pro"],
+    "rating": 4.3,
+    "website": "https://kore.ai",
+    "featured": false,
+    "views": "1.2M/month",
+    "tags": {
+      "en": ["AI Companions", "Emotional AI", "Roleplay"],
+      "ar": ["رفقاء افتراضيون", "ذكاء عاطفي", "لعب أدوار"],
+      "fr": ["Compagnons IA", "IA Émotionnelle", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 69,
+    "name": "Kupid Chat",
+    "logo": "image/kupid-chat.jpg",
+    "description": {
+      "en": "An immersive digital partner platform featuring interactive stories, avatars, and real-time chat.",
+      "ar": "منصة شركاء رقمية غامرة تضم قصصاً تفاعلية، صوراً رمزية، ومحادثات في الوقت الفعلي.",
+      "fr": "Une plateforme de partenaires virtuels offrant des histoires interactives et du chat en temps réel."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Entertainment"],
+      "ar": ["شات بوت", "رفيق افتراضي", "ترفيه"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Divertissement"]
+    },
+    "pricing": ["Free", "VIP Tier"],
+    "rating": 4.2,
+    "website": "https://kupid.chat",
+    "featured": false,
+    "views": "1.7M/month",
+    "tags": {
+      "en": ["Avatars", "Roleplay", "Virtual Partners"],
+      "ar": ["صور رمزية", "لعب أدوار", "شركاء افتراضيون"],
+      "fr": ["Avatars", "Jeu de rôle", "Partenaires virtuels"]
+    }
+  },
+  {
+    "id": 70,
+    "name": "Elysia AI",
+    "logo": "image/elysia-ai.jpg",
+    "description": {
+      "en": "A story-driven roleplay platform allowing players to participate in complex branching AI narratives.",
+      "ar": "منصة لعب أدوار قصصية تسمح للاعبين بالمشاركة في سرديات ذكاء اصطناعي معقدة ومتفرعة.",
+      "fr": "Une plateforme de jeu de rôle axée sur les histoires permettant de participer à des récits à choix multiples."
+    },
+    "categories": {
+      "en": ["Chatbot", "Storytelling", "Gaming"],
+      "ar": ["شات بوت", "سرد قصص", "ألعاب"],
+      "fr": ["Chatbot", "Storytelling", "Jeux vidéo"]
+    },
+    "pricing": ["Free", "Subscriber Pass"],
+    "rating": 4.4,
+    "website": "https://elysia.ai",
+    "featured": false,
+    "views": "920K/month",
+    "tags": {
+      "en": ["Branching Narrative", "Fantasy", "Roleplay"],
+      "ar": ["سرد متفرع", "خيالي", "لعب أدوار"],
+      "fr": ["Récit à choix", "Fantaisie", "Jeu de rôle"]
+    }
+  },
+  {
+    "id": 71,
+    "name": "Botverse",
+    "logo": "image/botverse.jpg",
+    "description": {
+      "en": "A multi-agent ecosystem for creating, training, and interacting with diverse conversational chatbots.",
+      "ar": "بيئة متعددة الوكلاء لإنشاء وتدريب والتفاعل مع مختلف روبوتات المحادثة الذكية.",
+      "fr": "Un écosystème multi-agents pour créer, entraîner et interagir avec divers chatbots."
+    },
+    "categories": {
+      "en": ["Chatbot", "Developer Tools", "Entertainment"],
+      "ar": ["شات بوت", "أدوات مطورين", "ترفيه"],
+      "fr": ["Chatbot", "Outils Développeur", "Divertissement"]
+    },
+    "pricing": ["Free", "Botverse Pro"],
+    "rating": 4.5,
+    "website": "https://botverse.ai",
+    "featured": true,
+    "views": "2.3M/month",
+    "tags": {
+      "en": ["Multi-Agent", "Bot Creation", "Interactive"],
+      "ar": ["وكلاء متعددون", "إنشاء بوتات", "تفاعلي"],
+      "fr": ["Multi-agents", "Création de bots", "Interactif"]
+    }
+  },
+  {
+    "id": 72,
+    "name": "Flowing Companion",
+    "logo": "image/flowing-companion.png",
+    "description": {
+      "en": "An AI companion app focused on deep conversational continuity, dynamic emotional states, and visual avatars.",
+      "ar": "تطبيق رفيق ذكاء اصطناعي يركز على استمرارية المحادثة العميقة، الحالات العاطفية الديناميكية، والصور الرمزية.",
+      "fr": "Une application de compagnon IA axée sur la continuité conversationnelle et les états émotionnels."
+    },
+    "categories": {
+      "en": ["Chatbot", "Virtual Companion", "Mobile App"],
+      "ar": ["شات بوت", "رفيق افتراضي", "تطبيق جوال"],
+      "fr": ["Chatbot", "Compagnon Virtuel", "Application Mobile"]
+    },
+    "pricing": ["Free", "Pro Pass"],
+    "rating": 4.2,
+    "website": "https://flowing.ai/companion",
+    "featured": false,
+    "views": "1.1M/month",
+    "tags": {
+      "en": ["Emotional States", "Continuity", "Avatars"],
+      "ar": ["حالات عاطفية", "استمرارية", "صور رمزية"],
+      "fr": ["États émotionnels", "Continuité", "Avatars"]
+    }
+  },
+  {
+    "id": 73,
+    "name": "Harpy AI",
+    "logo": "image/harpy-ai.png",
+    "description": {
+      "en": "A popular web-based character chat client featuring community-shared prompts and flexible LLM integrations.",
+      "ar": "عميل محادثة شخصيات شهير يعمل عبر الويب ويتميز بأوامر مشاركة مجتمعياً وتكامل مع نماذج لغوية متعددة.",
+      "fr": "Un client de chat de personnages populaire sur le Web offrant des prompts communautaires et des intégrations LLM."
+    },
+    "categories": {
+      "en": ["Chatbot", "Entertainment"],
+      "ar": ["شات بوت", "ترفيه"],
+      "fr": ["Chatbot", "Divertissement"]
+    },
+    "pricing": ["Free"],
+    "rating": 4.4,
+    "website": "https://harpy.chat",
+    "featured": false,
+    "views": "2.8M/month",
+    "tags": {
+      "en": ["Community Prompts", "Roleplay", "Character Cards"],
+      "ar": ["أوامر مجتمعية", "لعب أدوار", "بطاقات شخصيات"],
+      "fr": ["Prompts communautaires", "Jeu de rôle", "Cartes de personnages"]
+    }
+  },
+  {
+    "id": 74,
+    "name": "Leonardo.Ai",
+    "logo": "image/leonardo-ai.png",
+    "description": {
+      "en": "AI image and video generation platform with fine-tuned models and a built-in canvas editor.",
+      "ar": "منصة توليد صور وفيديوهات بالذكاء الاصطناعي مع نماذج مخصصة ومحرر canvas مدمج.",
+      "fr": "Plateforme de génération d'images et vidéos IA avec modèles personnalisés et éditeur canvas intégré."
+    },
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "ar": ["توليد الصور", "التصميم"],
+      "fr": ["Génération d'images", "Design"]
+    },
+    "pricing": ["Free", "Essential", "Premium", "Ultimate", "Team", "API"],
+    "rating": 4.5,
+    "website": "https://leonardo.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Image Generation", "Canvas Editor", "Custom Models"],
+      "ar": ["توليد الصور", "محرر Canvas", "نماذج مخصصة"],
+      "fr": ["Génération d'images", "Éditeur Canvas", "Modèles personnalisés"]
+    }
+  },
+  {
+    "id": 75,
+    "name": "Replit",
+    "logo": "image/replit.png",
+    "description": {
+      "en": "Cloud-based coding platform with an AI Agent that builds and deploys full apps from plain-English prompts.",
+      "ar": "منصة برمجة سحابية بها وكيل ذكاء اصطناعي يبني وينشر تطبيقات كاملة انطلاقا من أوامر بلغة بسيطة.",
+      "fr": "Plateforme de code dans le cloud avec un agent IA qui construit et déploie des applications à partir de simples instructions."
+    },
+    "categories": {
+      "en": ["Coding", "AI Assistant"],
+      "ar": ["البرمجة", "مساعد ذكاء اصطناعي"],
+      "fr": ["Programmation", "Assistant IA"]
+    },
+    "pricing": ["Starter (Free)", "Core", "Pro", "Enterprise"],
+    "rating": 3.7,
+    "website": "https://replit.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Vibe Coding", "Deployment", "AI Agent"],
+      "ar": ["برمجة بالذكاء الاصطناعي", "نشر التطبيقات", "وكيل ذكاء اصطناعي"],
+      "fr": ["Codage IA", "Déploiement", "Agent IA"]
+    }
+  },
+  {
+    "id": 76,
+    "name": "Zapier",
+    "logo": "image/zapier.png",
+    "description": {
+      "en": "No-code automation platform that connects thousands of apps and now includes AI-powered workflow steps.",
+      "ar": "منصة أتمتة بدون برمجة تربط آلاف التطبيقات، وتتضمن الآن خطوات سير عمل مدعومة بالذكاء الاصطناعي.",
+      "fr": "Plateforme d'automatisation sans code qui connecte des milliers d'applications, avec désormais des étapes IA."
+    },
+    "categories": {
+      "en": ["Automation", "Productivity"],
+      "ar": ["الأتمتة", "الإنتاجية"],
+      "fr": ["Automatisation", "Productivité"]
+    },
+    "pricing": ["Free", "Professional", "Team", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://zapier.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Workflow Automation", "Integrations", "AI Fields"],
+      "ar": ["أتمتة سير العمل", "تكاملات", "حقول ذكاء اصطناعي"],
+      "fr": ["Automatisation de workflow", "Intégrations", "Champs IA"]
+    }
+  },
+  {
+    "id": 77,
+    "name": "Krisp",
+    "logo": "image/krisp.png",
+    "description": {
+      "en": "AI-powered app that removes background noise from calls and generates meeting transcripts and summaries.",
+      "ar": "تطبيق مدعوم بالذكاء الاصطناعي يزيل ضوضاء الخلفية من المكالمات وينتج نصوص وملخصات الاجتماعات.",
+      "fr": "Application IA qui supprime le bruit de fond des appels et génère transcriptions et résumés de réunions."
+    },
+    "categories": {
+      "en": ["Audio", "Productivity"],
+      "ar": ["صوت", "الإنتاجية"],
+      "fr": ["Audio", "Productivité"]
+    },
+    "pricing": ["Free", "Pro", "Business", "Enterprise"],
+    "rating": 4.6,
+    "website": "https://krisp.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Noise Cancellation", "Meeting Notes", "Transcription"],
+      "ar": ["إلغاء الضوضاء", "ملاحظات الاجتماعات", "تفريغ الصوت"],
+      "fr": ["Suppression du bruit", "Notes de réunion", "Transcription"]
+    }
+  },
+  {
+    "id": 78,
+    "name": "Beautiful.ai",
+    "logo": "image/beautiful-ai.png",
+    "description": {
+      "en": "AI-powered presentation tool with Smart Slides that auto-adjust layout, spacing, and design as you build.",
+      "ar": "أداة عروض تقديمية بالذكاء الاصطناعي تتضمن شرائح ذكية تعدّل التصميم والتباعد تلقائيا أثناء البناء.",
+      "fr": "Outil de présentation IA avec des diapositives intelligentes qui ajustent automatiquement mise en page et design."
+    },
+    "categories": {
+      "en": ["Presentations", "Design"],
+      "ar": ["العروض التقديمية", "التصميم"],
+      "fr": ["Présentations", "Design"]
+    },
+    "pricing": ["Pro", "Team", "Enterprise"],
+    "rating": 4.7,
+    "website": "https://www.beautiful.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Smart Slides", "Auto-Design", "Branding"],
+      "ar": ["شرائح ذكية", "تصميم تلقائي", "الهوية البصرية"],
+      "fr": ["Diapositives intelligentes", "Design automatique", "Branding"]
+    }
+  },
+  {
+    "id": 79,
+    "name": "Murf AI",
+    "logo": "image/murf-ai.jpg",
+    "description": {
+      "en": "AI voice generator that turns text into natural-sounding voiceovers in 200+ voices and 30+ languages.",
+      "ar": "مولد أصوات بالذكاء الاصطناعي يحول النص إلى تعليق صوتي طبيعي بأكثر من 200 صوت و30 لغة.",
+      "fr": "Générateur de voix IA qui transforme le texte en voix off naturelles, avec plus de 200 voix et 30 langues."
+    },
+    "categories": {
+      "en": ["Audio", "Voice AI"],
+      "ar": ["صوت", "ذكاء اصطناعي صوتي"],
+      "fr": ["Audio", "IA vocale"]
+    },
+    "pricing": ["Free", "Creator", "Business", "Enterprise"],
+    "rating": 4.7,
+    "website": "https://murf.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text-to-Speech", "Voiceover", "Dubbing"],
+      "ar": ["تحويل النص لصوت", "تعليق صوتي", "دبلجة"],
+      "fr": ["Synthèse vocale", "Voix off", "Doublage"]
+    }
+  },
+  {
+    "id": 80,
+    "name": "Copy.ai",
+    "logo": "image/copy-ai.jpg",
+    "description": {
+      "en": "AI writing and go-to-market platform that generates marketing copy and automates content workflows.",
+      "ar": "منصة كتابة وتسويق بالذكاء الاصطناعي تنتج نصوصا تسويقية وتؤتمت سير عمل المحتوى.",
+      "fr": "Plateforme d'écriture et de marketing IA qui génère des textes marketing et automatise les workflows de contenu."
+    },
+    "categories": {
+      "en": ["Writing", "Marketing"],
+      "ar": ["الكتابة", "التسويق"],
+      "fr": ["Rédaction", "Marketing"]
+    },
+    "pricing": ["Free", "Chat", "Growth", "Enterprise"],
+    "rating": 4.7,
+    "website": "https://www.copy.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Marketing Copy", "Templates", "Workflows"],
+      "ar": ["نصوص تسويقية", "قوالب", "سير العمل"],
+      "fr": ["Textes marketing", "Modèles", "Workflows"]
+    }
+  },
+  {
+    "id": 81,
+    "name": "Consensus",
+    "logo": "image/consensus.png",
+    "description": {
+      "en": "AI-powered academic search engine that synthesizes findings from 200M+ peer-reviewed papers with citations.",
+      "ar": "محرك بحث أكاديمي بالذكاء الاصطناعي يلخص نتائج أكثر من 200 مليون بحث علمي محكم مع ذكر المصادر.",
+      "fr": "Moteur de recherche académique IA qui synthétise les résultats de plus de 200M d'articles évalués par des pairs, avec citations."
+    },
+    "categories": {
+      "en": ["Research", "Data Analysis"],
+      "ar": ["البحث العلمي", "تحليل البيانات"],
+      "fr": ["Recherche", "Analyse de données"]
+    },
+    "pricing": ["Free", "Premium", "Team", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://consensus.app",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Academic Search", "Citations", "Literature Review"],
+      "ar": ["بحث أكاديمي", "مصادر", "مراجعة الأدبيات"],
+      "fr": ["Recherche académique", "Citations", "Revue de littérature"]
+    }
+  },
+  {
+    "id": 82,
+    "name": "Framer",
+    "logo": "image/framer.webp",
+    "description": {
+      "en": "No-code website builder with AI-powered layout generation, hosting, and a built-in CMS.",
+      "ar": "أداة بناء مواقع بدون برمجة مع توليد تخطيطات بالذكاء الاصطناعي، استضافة، ونظام محتوى مدمج.",
+      "fr": "Créateur de sites sans code avec génération de mise en page par IA, hébergement et CMS intégré."
+    },
+    "categories": {
+      "en": ["Design", "Web Development"],
+      "ar": ["التصميم", "تطوير الويب"],
+      "fr": ["Design", "Développement web"]
+    },
+    "pricing": ["Free", "Basic", "Pro", "Scale", "Enterprise"],
+    "rating": null,
+    "website": "https://www.framer.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Website Builder", "CMS", "AI Layout"],
+      "ar": ["بناء المواقع", "نظام المحتوى", "تخطيط بالذكاء الاصطناعي"],
+      "fr": ["Créateur de site", "CMS", "Mise en page IA"]
+    }
+  },
+  {
+    "id": 83,
+    "name": "Pika",
+    "logo": "image/pika.png",
+    "description": {
+      "en": "AI video generator that turns text and images into short animated clips with signature creative effects.",
+      "ar": "مولد فيديو بالذكاء الاصطناعي يحول النصوص والصور إلى مقاطع متحركة قصيرة بتأثيرات إبداعية مميزة.",
+      "fr": "Générateur de vidéos IA qui transforme texte et images en courts clips animés avec des effets créatifs signature."
+    },
+    "categories": {
+      "en": ["Video Creation", "Image Generation"],
+      "ar": ["إنشاء الفيديو", "توليد الصور"],
+      "fr": ["Création vidéo", "Génération d'images"]
+    },
+    "pricing": ["Free", "Standard", "Pro", "Fancy"],
+    "rating": 3.8,
+    "website": "https://pika.art",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text-to-Video", "Creative Effects", "Short-form"],
+      "ar": ["نص إلى فيديو", "تأثيرات إبداعية", "محتوى قصير"],
+      "fr": ["Texte vers vidéo", "Effets créatifs", "Format court"]
+    }
+  },
+  {
+    "id": 84,
+    "name": "Loom",
+    "logo": "image/loom.png",
+    "description": {
+      "en": "Screen and camera recording tool with AI-powered editing, summaries, and transcripts.",
+      "ar": "أداة تسجيل الشاشة والكاميرا مع تحرير وملخصات وتفريغ نصوص مدعومة بالذكاء الاصطناعي.",
+      "fr": "Outil d'enregistrement d'écran et de webcam avec montage, résumés et transcriptions par IA."
+    },
+    "categories": {
+      "en": ["Video Creation", "Productivity"],
+      "ar": ["إنشاء الفيديو", "الإنتاجية"],
+      "fr": ["Création vidéo", "Productivité"]
+    },
+    "pricing": ["Starter (Free)", "Business", "Business + AI", "Enterprise"],
+    "rating": 4.7,
+    "website": "https://www.loom.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Screen Recording", "Async Video", "AI Summaries"],
+      "ar": ["تسجيل الشاشة", "فيديو غير متزامن", "ملخصات ذكية"],
+      "fr": ["Enregistrement d'écran", "Vidéo asynchrone", "Résumés IA"]
+    }
+  },
+  {
+    "id": 85,
+    "name": "Speechify",
+    "logo": "image/speechify.png",
+    "description": {
+      "en": "Text-to-speech app that reads articles, PDFs, and books aloud in natural AI voices.",
+      "ar": "تطبيق تحويل نص لصوت يقرأ المقالات وملفات PDF والكتب بأصوات ذكاء اصطناعي طبيعية.",
+      "fr": "Application de synthèse vocale qui lit à voix haute articles, PDF et livres avec des voix IA naturelles."
+    },
+    "categories": {
+      "en": ["Audio", "Accessibility"],
+      "ar": ["صوت", "إمكانية الوصول"],
+      "fr": ["Audio", "Accessibilité"]
+    },
+    "pricing": ["Free", "Premium", "Student", "Enterprise"],
+    "rating": 4.8,
+    "website": "https://speechify.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text-to-Speech", "OCR", "Reading Assistance"],
+      "ar": ["تحويل النص لصوت", "التعرف الضوئي على الحروف", "مساعدة القراءة"],
+      "fr": ["Synthèse vocale", "OCR", "Aide à la lecture"]
+    }
+  },
+  {
+    "id": 86,
+    "name": "Ideogram",
+    "logo": "image/ideogram.png",
+    "description": {
+      "en": "AI image generator known for accurate text rendering directly inside generated images.",
+      "ar": "مولد صور بالذكاء الاصطناعي معروف بدقة عرض النصوص داخل الصور المولدة.",
+      "fr": "Générateur d'images IA reconnu pour son rendu précis du texte directement dans les images générées."
+    },
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "ar": ["توليد الصور", "التصميم"],
+      "fr": ["Génération d'images", "Design"]
+    },
+    "pricing": ["Free", "Basic", "Plus", "Pro"],
+    "rating": null,
+    "website": "https://ideogram.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text Rendering", "Image Generation", "API"],
+      "ar": ["عرض النصوص", "توليد الصور", "API"],
+      "fr": ["Rendu de texte", "Génération d'images", "API"]
+    }
+  },
+  {
+    "id": 87,
+    "name": "Rytr",
+    "logo": "image/rytr.png",
+    "description": {
+      "en": "Budget-friendly AI writing assistant with 40+ use cases, tone controls, and unlimited generation on paid plans.",
+      "ar": "مساعد كتابة بالذكاء الاصطناعي منخفض التكلفة بأكثر من 40 حالة استخدام وتحكم بالنبرة وتوليد غير محدود بالباقات المدفوعة.",
+      "fr": "Assistant d'écriture IA économique avec plus de 40 cas d'usage, contrôle du ton et génération illimitée sur les forfaits payants."
+    },
+    "categories": {
+      "en": ["Writing", "Marketing"],
+      "ar": ["الكتابة", "التسويق"],
+      "fr": ["Rédaction", "Marketing"]
+    },
+    "pricing": ["Free", "Unlimited", "Premium"],
+    "rating": 4.7,
+    "website": "https://rytr.me",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Short-form Copy", "Templates", "Multilingual"],
+      "ar": ["نصوص قصيرة", "قوالب", "متعدد اللغات"],
+      "fr": ["Textes courts", "Modèles", "Multilingue"]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Remove.bg",
+    "logo": "image/remove-bg.png",
+    "description": {
+      "en": "AI tool that automatically removes image backgrounds in seconds, with API and app integrations.",
+      "ar": "أداة بالذكاء الاصطناعي تزيل خلفيات الصور تلقائيا في ثوانٍ، مع API وتكاملات مع تطبيقات أخرى.",
+      "fr": "Outil IA qui supprime automatiquement les arrière-plans d'images en quelques secondes, avec API et intégrations."
+    },
+    "categories": {
+      "en": ["Image Generation", "Design"],
+      "ar": ["توليد الصور", "التصميم"],
+      "fr": ["Génération d'images", "Design"]
+    },
+    "pricing": ["Free", "Pay-as-you-go", "Lite", "Pro", "Volume+"],
+    "rating": 4.4,
+    "website": "https://www.remove.bg",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Background Removal", "API", "Batch Processing"],
+      "ar": ["إزالة الخلفية", "API", "معالجة دفعية"],
+      "fr": ["Suppression d'arrière-plan", "API", "Traitement par lot"]
+    }
+  },
+  {
+    "id": 89,
+    "name": "Luma AI",
+    "logo": "image/luma-ai.jpg",
+    "description": {
+      "en": "AI video generator (Dream Machine) known for realistic physics, lighting, and camera motion.",
+      "ar": "مولد فيديو بالذكاء الاصطناعي (Dream Machine) معروف بفيزياء وإضاءة وحركة كاميرا واقعية.",
+      "fr": "Générateur de vidéos IA (Dream Machine) reconnu pour sa physique, sa lumière et ses mouvements de caméra réalistes."
+    },
+    "categories": {
+      "en": ["Video Creation", "Image Generation"],
+      "ar": ["إنشاء الفيديو", "توليد الصور"],
+      "fr": ["Création vidéo", "Génération d'images"]
+    },
+    "pricing": ["Free", "Lite", "Plus", "Unlimited", "Enterprise"],
+    "rating": 4.2,
+    "website": "https://lumalabs.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text-to-Video", "Image-to-Video", "Physics"],
+      "ar": ["نص إلى فيديو", "صورة إلى فيديو", "فيزياء"],
+      "fr": ["Texte vers vidéo", "Image vers vidéo", "Physique"]
+    }
+  },
+  {
+    "id": 90,
+    "name": "Elicit",
+    "logo": "image/elicit.jpg",
+    "description": {
+      "en": "AI research assistant for systematic literature reviews, summarizing and extracting data from academic papers.",
+      "ar": "مساعد بحث بالذكاء الاصطناعي لمراجعات الأدبيات المنهجية، يلخص ويستخرج بيانات من الأبحاث الأكاديمية.",
+      "fr": "Assistant de recherche IA pour revues de littérature systématiques, résumant et extrayant des données d'articles académiques."
+    },
+    "categories": {
+      "en": ["Research", "Data Analysis"],
+      "ar": ["البحث العلمي", "تحليل البيانات"],
+      "fr": ["Recherche", "Analyse de données"]
+    },
+    "pricing": ["Basic (Free)", "Plus", "Pro", "Team"],
+    "rating": 3.9,
+    "website": "https://elicit.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Systematic Review", "Data Extraction", "Academic Search"],
+      "ar": ["مراجعة منهجية", "استخراج البيانات", "بحث أكاديمي"],
+      "fr": ["Revue systématique", "Extraction de données", "Recherche académique"]
+    }
+  },
+  {
+    "id": 91,
+    "name": "Podcastle",
+    "logo": "image/podcastle.png",
+    "description": {
+      "en": "All-in-one podcast platform for remote recording, AI editing, voice cloning, and hosting.",
+      "ar": "منصة بودكاست شاملة للتسجيل عن بعد والتحرير بالذكاء الاصطناعي واستنساخ الصوت والاستضافة.",
+      "fr": "Plateforme tout-en-un pour podcasts : enregistrement à distance, montage IA, clonage vocal et hébergement."
+    },
+    "categories": {
+      "en": ["Audio", "Video Editing"],
+      "ar": ["صوت", "مونتاج الفيديو"],
+      "fr": ["Audio", "Montage vidéo"]
+    },
+    "pricing": ["Free", "Storyteller", "Pro", "Business"],
+    "rating": 4.6,
+    "website": "https://podcastle.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Podcast Recording", "Voice Cloning", "Transcription"],
+      "ar": ["تسجيل البودكاست", "استنساخ الصوت", "تفريغ الصوت"],
+      "fr": ["Enregistrement de podcast", "Clonage vocal", "Transcription"]
+    }
+  },
+  {
+    "id": 92,
+    "name": "Chatbase",
+    "logo": "image/chatbase.jpg",
+    "description": {
+      "en": "No-code AI chatbot builder that trains custom support agents on a business's own website and documents.",
+      "ar": "أداة بناء روبوتات محادثة بدون برمجة تدرب وكلاء دعم مخصصين على موقع وملفات الشركة نفسها.",
+      "fr": "Créateur de chatbot IA sans code qui entraîne des agents de support sur le site et les documents d'une entreprise."
+    },
+    "categories": {
+      "en": ["Chatbot", "Customer Support"],
+      "ar": ["شات بوت", "دعم العملاء"],
+      "fr": ["Chatbot", "Support client"]
+    },
+    "pricing": ["Free", "Hobby", "Standard", "Pro", "Enterprise"],
+    "rating": 4.8,
+    "website": "https://www.chatbase.co",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Custom Chatbot", "Lead Capture", "AI Actions"],
+      "ar": ["روبوت محادثة مخصص", "جمع العملاء المحتملين", "إجراءات ذكاء اصطناعي"],
+      "fr": ["Chatbot personnalisé", "Capture de leads", "Actions IA"]
+    }
+  },
+  {
+    "id": 93,
+    "name": "Kling AI",
+    "logo": "image/kling-ai.jpg",
+    "description": {
+      "en": "AI video generator that creates realistic clips from text or images with camera and motion control.",
+      "ar": "مولد فيديو بالذكاء الاصطناعي ينتج مقاطع واقعية من النص أو الصور مع تحكم بالكاميرا والحركة.",
+      "fr": "Générateur de vidéos IA qui crée des clips réalistes à partir de texte ou d'images, avec contrôle de la caméra et du mouvement."
+    },
+    "categories": {
+      "en": ["Video Creation", "Image Generation"],
+      "ar": ["إنشاء الفيديو", "توليد الصور"],
+      "fr": ["Création vidéo", "Génération d'images"]
+    },
+    "pricing": ["Free", "Standard", "Pro", "Premier", "Ultra"],
+    "rating": 4.5,
+    "website": "https://klingai.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Text-to-Video", "Motion Control", "4K"],
+      "ar": ["نص إلى فيديو", "تحكم بالحركة", "4K"],
+      "fr": ["Texte vers vidéo", "Contrôle du mouvement", "4K"]
+    }
+  },
+  {
+    "id": 94,
+    "name": "ClickUp",
+    "logo": "image/clickup.png",
+    "description": {
+      "en": "All-in-one productivity platform for tasks, docs, and goals, with an optional AI assistant (Brain).",
+      "ar": "منصة إنتاجية شاملة للمهام والملفات والأهداف، مع مساعد ذكاء اصطناعي اختياري (Brain).",
+      "fr": "Plateforme de productivité tout-en-un pour tâches, documents et objectifs, avec un assistant IA optionnel (Brain)."
+    },
+    "categories": {
+      "en": ["Productivity", "Project Management"],
+      "ar": ["الإنتاجية", "إدارة المشاريع"],
+      "fr": ["Productivité", "Gestion de projet"]
+    },
+    "pricing": ["Free", "Unlimited", "Business", "Enterprise"],
+    "rating": 4.7,
+    "website": "https://clickup.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Task Management", "Docs", "AI Assistant"],
+      "ar": ["إدارة المهام", "المستندات", "مساعد ذكاء اصطناعي"],
+      "fr": ["Gestion de tâches", "Documents", "Assistant IA"]
+    }
+  },
+  {
+    "id": 95,
+    "name": "Riverside.fm",
+    "logo": "image/riverside-fm.png",
+    "description": {
+      "en": "Remote recording studio for podcasts and video with local high-quality capture and AI editing.",
+      "ar": "استوديو تسجيل عن بعد للبودكاست والفيديو بجودة عالية محلية وتحرير بالذكاء الاصطناعي.",
+      "fr": "Studio d'enregistrement à distance pour podcasts et vidéos avec capture locale haute qualité et montage IA."
+    },
+    "categories": {
+      "en": ["Audio", "Video Creation"],
+      "ar": ["صوت", "إنشاء الفيديو"],
+      "fr": ["Audio", "Création vidéo"]
+    },
+    "pricing": ["Free", "Pro", "Grow", "Webinar", "Business"],
+    "rating": 4.8,
+    "website": "https://riverside.fm",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Local Recording", "4K Video", "AI Editing"],
+      "ar": ["تسجيل محلي", "فيديو 4K", "تحرير بالذكاء الاصطناعي"],
+      "fr": ["Enregistrement local", "Vidéo 4K", "Montage IA"]
+    }
+  },
+  {
+    "id": 96,
+    "name": "Superhuman",
+    "logo": "image/superhuman.jpg",
+    "description": {
+      "en": "Premium AI-powered email client built for speed, with auto-drafts and keyboard-first workflow.",
+      "ar": "عميل بريد إلكتروني مميز مدعوم بالذكاء الاصطناعي مصمم للسرعة، مع مسودات تلقائية وسير عمل عبر لوحة المفاتيح.",
+      "fr": "Client email premium propulsé par IA, conçu pour la vitesse, avec brouillons automatiques et workflow au clavier."
+    },
+    "categories": {
+      "en": ["Productivity", "Email"],
+      "ar": ["الإنتاجية", "البريد الإلكتروني"],
+      "fr": ["Productivité", "Email"]
+    },
+    "pricing": ["Starter", "Business", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://superhuman.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Email Client", "Auto Drafts", "Keyboard Shortcuts"],
+      "ar": ["عميل بريد إلكتروني", "مسودات تلقائية", "اختصارات لوحة المفاتيح"],
+      "fr": ["Client email", "Brouillons auto", "Raccourcis clavier"]
+    }
+  },
+  {
+    "id": 97,
+    "name": "Vidyard",
+    "logo": "image/vidyard.png",
+    "description": {
+      "en": "AI-powered video platform for sales teams: personalized video messages, AI avatars, and viewer analytics.",
+      "ar": "منصة فيديو بالذكاء الاصطناعي لفرق المبيعات: رسائل فيديو مخصصة، أفاتار بالذكاء الاصطناعي، وتحليلات المشاهدين.",
+      "fr": "Plateforme vidéo IA pour équipes commerciales : messages vidéo personnalisés, avatars IA et analytics des spectateurs."
+    },
+    "categories": {
+      "en": ["Video Creation", "Sales"],
+      "ar": ["إنشاء الفيديو", "المبيعات"],
+      "fr": ["Création vidéo", "Ventes"]
+    },
+    "pricing": ["Free", "Starter", "Teams", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://www.vidyard.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Video Messaging", "AI Avatars", "CRM Integration"],
+      "ar": ["رسائل فيديو", "أفاتار بالذكاء الاصطناعي", "تكامل CRM"],
+      "fr": ["Messagerie vidéo", "Avatars IA", "Intégration CRM"]
+    }
+  },
+  {
+    "id": 98,
+    "name": "Fathom",
+    "logo": "image/fathom.png",
+    "description": {
+      "en": "AI meeting assistant that records, transcribes, and summarizes Zoom, Meet, and Teams calls with a generous free plan.",
+      "ar": "مساعد اجتماعات بالذكاء الاصطناعي يسجل ويفرغ ويلخص مكالمات Zoom وMeet وTeams مع باقة مجانية سخية.",
+      "fr": "Assistant de réunion IA qui enregistre, transcrit et résume les appels Zoom, Meet et Teams, avec un plan gratuit généreux."
+    },
+    "categories": {
+      "en": ["Productivity", "Transcription"],
+      "ar": ["الإنتاجية", "تفريغ الصوت"],
+      "fr": ["Productivité", "Transcription"]
+    },
+    "pricing": ["Free", "Premium", "Team", "Business"],
+    "rating": 5.0,
+    "website": "https://www.fathom.ai",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Meeting Notes", "AI Summaries", "CRM Sync"],
+      "ar": ["ملاحظات الاجتماعات", "ملخصات ذكية", "ربط CRM"],
+      "fr": ["Notes de réunion", "Résumés IA", "Synchro CRM"]
+    }
+  },
+  {
+    "id": 99,
+    "name": "Intercom (Fin AI Agent)",
+    "logo": "image/intercom.png",
+    "description": {
+      "en": "Customer service platform with Fin, an AI agent that autonomously resolves support conversations.",
+      "ar": "منصة خدمة عملاء تتضمن Fin، وكيل ذكاء اصطناعي يحل محادثات الدعم بشكل مستقل.",
+      "fr": "Plateforme de service client avec Fin, un agent IA qui résout de façon autonome les conversations de support."
+    },
+    "categories": {
+      "en": ["Chatbot", "Customer Support"],
+      "ar": ["شات بوت", "دعم العملاء"],
+      "fr": ["Chatbot", "Support client"]
+    },
+    "pricing": ["Essential", "Advanced", "Expert", "Fin: $0.99/outcome"],
+    "rating": 4.5,
+    "website": "https://www.intercom.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["AI Agent", "Helpdesk", "Multichannel Support"],
+      "ar": ["وكيل ذكاء اصطناعي", "مكتب المساعدة", "دعم متعدد القنوات"],
+      "fr": ["Agent IA", "Helpdesk", "Support multicanal"]
+    }
+  },
+  {
+    "id": 100,
+    "name": "Typeform",
+    "logo": "image/typeform.png",
+    "description": {
+      "en": "Conversational form builder, one question at a time, for surveys, lead capture, and data collection.",
+      "ar": "أداة بناء استمارات محادثة، سؤال واحد فكل مرة، لجمع البيانات والاستطلاعات والعملاء المحتملين.",
+      "fr": "Créateur de formulaires conversationnels, une question à la fois, pour sondages et capture de leads."
+    },
+    "categories": {
+      "en": ["Design", "Data Analysis"],
+      "ar": ["التصميم", "تحليل البيانات"],
+      "fr": ["Design", "Analyse de données"]
+    },
+    "pricing": ["Free", "Basic", "Plus", "Business", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://www.typeform.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Forms", "Surveys", "Lead Capture"],
+      "ar": ["استمارات", "استطلاعات", "جمع العملاء المحتملين"],
+      "fr": ["Formulaires", "Sondages", "Capture de leads"]
+    }
+  },
+  {
+    "id": 101,
+    "name": "Semrush",
+    "logo": "image/semrush.png",
+    "description": {
+      "en": "SEO and marketing toolkit with AI-powered content tools and AI-visibility tracking across search engines and chatbots.",
+      "ar": "مجموعة أدوات SEO وتسويق مزودة بأدوات محتوى بالذكاء الاصطناعي وتتبع الظهور بالذكاء الاصطناعي عبر محركات البحث والروبوتات.",
+      "fr": "Suite SEO et marketing avec outils de contenu IA et suivi de visibilité IA sur moteurs de recherche et chatbots."
+    },
+    "categories": {
+      "en": ["Data Analysis", "Marketing"],
+      "ar": ["تحليل البيانات", "التسويق"],
+      "fr": ["Analyse de données", "Marketing"]
+    },
+    "pricing": ["Free", "Pro", "Guru", "Business", "Enterprise"],
+    "rating": 4.5,
+    "website": "https://www.semrush.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["SEO", "Keyword Research", "AI Visibility"],
+      "ar": ["تحسين محركات البحث", "بحث الكلمات المفتاحية", "الظهور بالذكاء الاصطناعي"],
+      "fr": ["SEO", "Recherche de mots-clés", "Visibilité IA"]
+    }
+  },
+  {
+    "id": 102,
+    "name": "HubSpot",
+    "logo": "image/hubspot.jpg",
+    "description": {
+      "en": "CRM and marketing platform with AI-powered tools (Breeze) for content, sales, and customer service.",
+      "ar": "منصة CRM وتسويق بها أدوات ذكاء اصطناعي (Breeze) للمحتوى والمبيعات وخدمة العملاء.",
+      "fr": "Plateforme CRM et marketing avec outils IA (Breeze) pour le contenu, les ventes et le service client."
+    },
+    "categories": {
+      "en": ["Marketing", "Productivity"],
+      "ar": ["التسويق", "الإنتاجية"],
+      "fr": ["Marketing", "Productivité"]
+    },
+    "pricing": ["Free", "Starter", "Professional", "Enterprise"],
+    "rating": 4.4,
+    "website": "https://www.hubspot.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["CRM", "Marketing Automation", "AI Tools"],
+      "ar": ["CRM", "أتمتة التسويق", "أدوات ذكاء اصطناعي"],
+      "fr": ["CRM", "Automatisation marketing", "Outils IA"]
+    }
+  },
+  {
+    "id": 103,
+    "name": "Airtable",
+    "logo": "image/airtable.png",
+    "description": {
+      "en": "Spreadsheet-database hybrid for building apps, workflows, and now AI agents on top of your data.",
+      "ar": "أداة هجينة بين جدول البيانات وقاعدة البيانات لبناء تطبيقات وسير عمل ووكلاء ذكاء اصطناعي فوق بياناتك.",
+      "fr": "Hybride tableur-base de données pour créer applications, workflows et désormais agents IA à partir de vos données."
+    },
+    "categories": {
+      "en": ["Productivity", "Data Analysis"],
+      "ar": ["الإنتاجية", "تحليل البيانات"],
+      "fr": ["Productivité", "Analyse de données"]
+    },
+    "pricing": ["Free", "Team", "Business", "Enterprise Scale"],
+    "rating": 4.6,
+    "website": "https://airtable.com",
+    "featured": false,
+    "views": null,
+    "tags": {
+      "en": ["Database", "Automation", "AI Agents"],
+      "ar": ["قاعدة بيانات", "أتمتة", "وكلاء ذكاء اصطناعي"],
+      "fr": ["Base de données", "Automatisation", "Agents IA"]
     }
   }
 ]
